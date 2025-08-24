@@ -1,2 +1,121 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Environment and secrets
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.streamlit/secrets.toml
+
+# Personal workspace configurations
 .obsidian/
-.trash/
+.vscode/
+.idea/
+
+# Kubuntu/KDE specific
+.directory
+.kde/
+.kde4/
+.config/
+.cache/
+.local/
+.thumbnails/
+.gvfs/
+.xsession-errors*
+
+# KDE file manager (Dolphin)
+.directory
+*.directory
+
+# KDE desktop files
+Desktop.ini
+desktop.ini
+
+# Trash files (Kubuntu/KDE)
+.Trash-*/
+$RECYCLE.BIN/
+
+# Linux general
+*~
+.fuse_hidden*
+.nfs*
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Yandex.Disk specific
+.sync/
+Yandex.Disk.lnk
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+*.swp
+*.swo
+
+# Documentation builds
+docs/_build/
+site/
+
+# Testing
+.tox/
+.pytest_cache/
+
+# Archive files
+*.zip
+*.tar.gz
+*.7z
+*.rar
+*.deb
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Lock files
+*.lock
+.lock
+
+# Package managers
+node_modules/
+.npm/
+.yarn/
+
+# Database files (if you don't want to sync them)
+# *.db
+# *.sqlite
+# *.sqlite3
+
+# Editor temporary files
+.*.swp
+.*.swo
+.*.tmp
