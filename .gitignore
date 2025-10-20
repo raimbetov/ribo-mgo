@@ -10,6 +10,17 @@ __pycache__/
 .coverage
 htmlcov/
 
+# Distribution / packaging
+build/
+dist/
+*.egg
+.eggs/
+
+# Type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
 # Jupyter Notebook
 .ipynb_checkpoints
 *.ipynb_checkpoints
@@ -22,6 +33,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+ribo-mgo-env/
 .streamlit/secrets.toml
 
 # Personal workspace configurations
