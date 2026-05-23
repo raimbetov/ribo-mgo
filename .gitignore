@@ -33,8 +33,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-ribo-mgo-env/
-.streamlit/secrets.toml
 
 # Personal workspace configurations
 .obsidian/
@@ -131,3 +129,9 @@ node_modules/
 .*.swp
 .*.swo
 .*.tmp
+
+# Local folders
+00-data-raw/
+01-data-extracted/
+ribo-mgo-env/
+rp-script/
