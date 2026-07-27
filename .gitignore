@@ -54,5 +54,11 @@ extract-scripts/
 # with --candidates-output. The mapping itself and the review files are tracked.
 *.candidates.jsonl
 
+# Downstream analyses. Local-only for now; all three rebuild from
+# 04-data-merged/mgo-glycated-proteins.tsv.
+05-analysis-upset/
+06-analysis-go/
+07-analysis-string/
+
 # Deprecated; kept locally for reference.
 DualGlo_exp1_recalc.ipynb
