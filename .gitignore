@@ -1,137 +1,58 @@
 # Python
-*.pyc
-*.pyo
-*.pyd
 __pycache__/
+*.py[cod]
 *.so
-.Python
 *.egg-info/
-.pytest_cache/
-.coverage
-htmlcov/
 
-# Distribution / packaging
-build/
-dist/
-*.egg
-.eggs/
-
-# Type checking
-.mypy_cache/
-.dmypy.json
-dmypy.json
-
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb_checkpoints
-
-# Environment and secrets
+# Environments
 .env
 .venv
 env/
 venv/
 ENV/
-env.bak/
-venv.bak/
+ribo-mgo-env/
 
-# Personal workspace configurations
-.obsidian/
+# Jupyter
+*.ipynb_checkpoints
+
+# Editors / IDEs
 .vscode/
 .idea/
-
-# Kubuntu/KDE specific
-.directory
-.kde/
-.kde4/
-.config/
-.cache/
-.local/
-.thumbnails/
-.gvfs/
-.xsession-errors*
-
-# KDE file manager (Dolphin)
-.directory
-*.directory
-
-# KDE desktop files
-Desktop.ini
-desktop.ini
-
-# Trash files (Kubuntu/KDE)
-.Trash-*/
-$RECYCLE.BIN/
-
-# Linux general
-*~
-.fuse_hidden*
-.nfs*
-
-# System files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# Yandex.Disk specific
-.sync/
-Yandex.Disk.lnk
-
-# Logs
-*.log
-logs/
-
-# Temporary files
-*.tmp
-*.temp
-.cache/
+.obsidian/
 *.swp
 *.swo
 
-# Documentation builds
-docs/_build/
-site/
+# OS and file-manager junk
+.DS_Store
+._*
+Thumbs.db
+*.directory
+.Trash-*/
+.fuse_hidden*
+.nfs*
 
-# Testing
-.tox/
-.pytest_cache/
-
-# Archive files
-*.zip
-*.tar.gz
-*.7z
-*.rar
-*.deb
-
-# Backup files
+# Transient
+*~
 *.bak
 *.backup
-*~
-
-# Lock files
+*.log
+*.tmp
+*.temp
 *.lock
-.lock
 
-# Package managers
-node_modules/
-.npm/
-.yarn/
-
-# Database files (if you don't want to sync them)
-# *.db
-# *.sqlite
-# *.sqlite3
-
-# Editor temporary files
-.*.swp
-.*.swo
-.*.tmp
-
-# Local folders
+# Local-only data. Deliberately untracked -- see CLAUDE.md. Do not "fix" this
+# by adding data to git.
 00-data-raw/
-01-data-extracted/
-ribo-mgo-env/
+00-full-text/
 rp-script/
+
+# Superseded by mgo-adduct-extract/; kept locally for reference only.
+extract-scripts/
+
+# Raw UniProt candidate sets (~2.7 MB). Useful locally for auditing why a row
+# scored the way it did, but regenerable -- rerun run_uniprot_name_match.py
+# with --candidates-output. The mapping itself and the review files are tracked.
+*.candidates.jsonl
+
+# Deprecated; kept locally for reference.
+DualGlo_exp1_recalc.ipynb

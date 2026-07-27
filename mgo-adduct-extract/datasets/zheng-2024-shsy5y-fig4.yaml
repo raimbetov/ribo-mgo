@@ -1,0 +1,298 @@
+id: zheng-2024-shsy5y-fig4
+paper: Zheng et al. 2024
+doi: 10.1016/j.ijbiomac.2024.132859
+cell_line: SH-SY5Y
+system: in-cell
+condition: control (0 uM) plus 500 / 750 / 1000 uM exogenous MGO, 4 replicates each
+adducts:
+- Arg MG-H (+54.010565 Da)
+- carboxyethyl / hemiaminal (+72.021129 Da) on Arg, Lys, Cys
+adduct_evidence: Methods 2.6, MaxQuant variable modifications with those delta masses.
+output: Zheng et al. 2024 - SH-SY5Y (Fig4 recovered).tsv
+expected_rows: 152
+count_evidence: union of Fig. 4 panels A-D (33 / 52 / 57 / 57 labels). The paper states 153
+  proteins; see caveats.
+provenance: 'FIGURE-DERIVED, NOT TEXT-LAYER. Fig. 4 is a raster image with no text layer,
+  so these labels were read visually from the figure rendered at 400 dpi (page 5 of the article
+  PDF). The transcription was then re-read independently EIGHT times -- two blind passes per
+  panel, each re-rendering from the PDF at 600-1200 dpi -- and all eight passes returned byte-identical
+  label lists. Each panel''s row count was separately confirmed by pixel analysis of the heatmap
+  colour bands: A=33, B=52, C=57, D=57. All 77 Table S1 genes appear in the union, which is
+  a strong check that the reading is correct. Re-deriving this list requires the vision protocol
+  in SKILL.md, not a parser.'
+sources:
+- model: label_union
+  file: 00-full-text/Zheng et al. - 2024.pdf
+  table: Fig. 4 heatmap row labels (panels {panels})
+  row_ref: read visually from figure -- see script docstring
+  label_column: Gene name
+  types_column: modification_types
+  panels_column: panels
+  panels:
+  - key: A
+    type: Arg MG-H
+    labels:
+    - KIAA1958
+    - ANKRD34B
+    - IKBIP
+    - UCP1
+    - HK3
+    - JAKMIP2
+    - VIM
+    - H2BC18
+    - NCBP2
+    - GCK
+    - ACTB
+    - POTEF
+    - ACTG1
+    - NBPF9
+    - SBF2
+    - ASS1
+    - APCDD1L
+    - TUBB4B
+    - MCM9
+    - GOLGA3
+    - UPP1
+    - PLEKHH2
+    - CTPS1
+    - GREB1L
+    - ASH1L
+    - ACTC1
+    - GKN2
+    - H3C15
+    - MMP27
+    - DNMBP
+    - TUBA1B
+    - H2AC18
+    - NBPF19
+    expected_count: 33
+  - key: B
+    type: Arg C-E/H
+    labels:
+    - SIK2
+    - CAPS
+    - PPP4C
+    - RMND1
+    - ZC3H3
+    - DCTN4
+    - FNBP4
+    - RBFOX1
+    - THRA
+    - KDM4C
+    - ZNF284
+    - TUBB1
+    - NDST4
+    - MYOM1
+    - HDAC4
+    - SIN3B
+    - ZNF821
+    - VIM
+    - TUBB4B
+    - NCBP2
+    - SLC2A5
+    - TEKT3
+    - H2BC18
+    - XRN1
+    - LAMB3
+    - KIF24
+    - SLC37A2
+    - ZNF500
+    - MYBPC1
+    - EEF2
+    - TTC36
+    - RASGRF2
+    - DLC1
+    - DSN1
+    - MSANTD2
+    - AP3D1
+    - TUBB6
+    - CARD10
+    - ASH1L
+    - GRHPR
+    - CCT7
+    - HNRNPA1
+    - CDH23
+    - ALMS1
+    - SERBP1
+    - ASIC4
+    - NUP205
+    - SLC25A29
+    - ENAH
+    - LTBP3
+    - PELI1
+    - CEP162
+    expected_count: 52
+  - key: C
+    type: Lys C-E/H
+    labels:
+    - DDX11L8
+    - PUM2
+    - SIK2
+    - PREPL
+    - SMC1A
+    - ZNF43
+    - DCTN4
+    - FNBP4
+    - ANXA2
+    - NCOA5
+    - HK2
+    - BTBD3
+    - NR4A2
+    - MYOM1
+    - VRK2
+    - DRC3
+    - ACTG1
+    - EEF1G
+    - H2BC18
+    - AMMECR1
+    - MYBPC1
+    - PHF3
+    - SIN3B
+    - KDM4C
+    - EEF2
+    - SAMD12
+    - CBR1
+    - PRPF6
+    - RTTN
+    - SEC63
+    - TEKT3
+    - SLC37A2
+    - RASGRF2
+    - ANKRD26P1
+    - MYL6
+    - CARHSP1
+    - CDH23
+    - IPO8
+    - DLC1
+    - DSN1
+    - CCT7
+    - KIF22
+    - DNMBP
+    - NBPF19
+    - DIAPH2
+    - STAB2
+    - SRRT
+    - SBF2
+    - ASH1L
+    - GREB1L
+    - CARD10
+    - ASS1
+    - CEP162
+    - RAI14
+    - MYO7A
+    - ENAH
+    - BARHL2
+    expected_count: 57
+  - key: D
+    type: Cys C-E
+    labels:
+    - PREPL
+    - ERVS71-1
+    - ZNF43
+    - UCP1
+    - RBFOX1
+    - KDM4C
+    - AMMECR1
+    - MYBPC1
+    - APCDD1L
+    - IDH3G
+    - ARHGDIB
+    - PSMB7
+    - PLEC
+    - GNB2
+    - ACTR2
+    - CCT5
+    - PKM
+    - PARP1
+    - VARS1
+    - ACTG1
+    - TLN1
+    - IDH2
+    - EIF6
+    - CTPS1
+    - ATIC
+    - ILF3
+    - PAICS
+    - EEF2
+    - RPL8
+    - MYO7A
+    - TUBA1B
+    - PGM3
+    - RNH1
+    - MSN
+    - KPNB1
+    - DLAT
+    - ANXA2
+    - HARS1
+    - HSPA8
+    - LGALS1
+    - IMPDH2
+    - PPP2CA
+    - MYL6
+    - ATP4A
+    - NONO
+    - GAPDH
+    - CCT8
+    - CCT7
+    - LAMTOR5
+    - LDHA
+    - GSTP1
+    - KARS1
+    - TOMM70
+    - EIF5A
+    - EEF1A1
+    - FLOT1
+    - APEX1
+    expected_count: 57
+  emit:
+    Gene name:
+      column: Gene name
+    Protein ID: {}
+    modification_types:
+      column: modification_types
+    in_Table_S1: {}
+lookups:
+- from_file: Zheng et al. 2024 - SH-SY5Y.tsv
+  match_on: Gene name
+  take: Protein ID
+  key_column: Gene name
+  into: Protein ID
+  into_flag: in_Table_S1
+checks:
+- type: unique_column
+  column: Gene name
+- type: no_blank
+  columns:
+  - Gene name
+  - modification_types
+- type: token_sum
+  column: modification_types
+  pattern: Arg MG-H
+  equals: 33
+  evidence: pixel count of Fig. 4 panel A colour bands
+- type: token_sum
+  column: modification_types
+  pattern: Arg C-E/H
+  equals: 52
+  evidence: pixel count of Fig. 4 panel B colour bands
+- type: token_sum
+  column: modification_types
+  pattern: Lys C-E/H
+  equals: 57
+  evidence: pixel count of Fig. 4 panel C colour bands
+- type: token_sum
+  column: modification_types
+  pattern: Cys C-E
+  equals: 57
+  evidence: pixel count of Fig. 4 panel D colour bands
+- type: covers_all_of
+  column: Gene name
+  from_file: Zheng et al. 2024 - SH-SY5Y.tsv
+  from_column: Gene name
+caveats:
+- 'RECONCILIATION: 152 unique gene symbols vs the 153 proteins the paper states. The most
+  likely cause is a counting-unit difference -- Fig. 4 labels rows by GENE SYMBOL while the
+  text counts PROTEINS (accessions), so two accessions sharing one symbol collapse to a single
+  label. It cannot be resolved from the published material. Treat this as 152 of 153.'
+- This file is the only source of Zheng's sole cytoplasmic ribosomal protein, RPL8 (panel
+  D, Cys C-E), which is absent from Table S1.

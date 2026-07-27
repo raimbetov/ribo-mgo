@@ -1,0 +1,97 @@
+id: ashour-2020-pdlf-cellfree
+paper: Ashour et al. 2020
+doi: 10.1136/bmjdrc-2020-001458
+cell_line: PDLF (human periodontal ligament fibroblasts, primary)
+system: cell-free
+condition: cytosolic protein extract incubated with exogenous MG
+adducts:
+  - MG-H1 (+54.01 Da, Arg)
+adduct_evidence: >-
+  Results: "we interrogated proteomics data for evidence of proteins with MG-H1
+  (+54.01 Da mass increment on arginine residues)" and "We then detected MG-H1
+  modification on 172 proteins in 353 unique modification sites (online
+  supplemental table S2)".
+output: Ashour et al. 2020 - PDLF cell-free.tsv
+expected_rows: 172
+count_evidence: >-
+  Results: "We then detected MG-H1 modification on 172 proteins in 353 unique
+  modification sites"; the table's own totals row prints 353.
+
+# NOTE ON THE TABLE TITLE. Table S2 is headed "Proteins at risk of MG modification",
+# which reads like a prediction. It is not: the Results sentence above reports it as
+# detected, and the very next sentence separates the predicted layer -- "From RBD
+# analysis, 115 of the 353 (33%) modifications were in predicted function domains".
+# See references/inclusion-policy.md, worked case 2.
+sources:
+  - model: pdf_anchor
+    file: 00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf
+    table: Table S2
+    pages: [5, 12]           # 0-based, inclusive
+    anchor_x: [90, 108]
+    anchor_max: 172
+    anchor_name: 'No'
+    assign: below            # the row number is always on the row's first baseline
+    y_tol: 30                # a row may run this far below its number
+    band: 2.0
+    anchor_once_per_table: true
+    # The totals row carries no "TOTAL" label -- it is a bare `353 | 5140 | 114`
+    # baseline sitting close enough below row 172 to be absorbed. Drop any
+    # baseline whose words are all bare numbers in the count columns.
+    drop_numeric_baselines: 300
+    columns:
+      - {name: Protein,                     x: [108, 225]}
+      - {name: Uniprot ID,                  x: [225, 312]}
+      - {name: No of MG modification sites, x: [312, 345]}
+      - {name: No of arg,                   x: [345, 380]}
+      - {name: MG modification sites,       x: [380, 565]}
+      - {name: MG-modified arg in RBD,      x: [565, 597]}
+      - {name: MG modification sites in RBD, x: [597, 780]}
+    emit:
+      'No':                          {column: 'No'}
+      Protein:                       {column: Protein}
+      Uniprot ID:                    {column: Uniprot ID}
+      No of MG modification sites:   {column: No of MG modification sites}
+      No of arg:                     {column: No of arg}
+      MG modification sites:         {column: MG modification sites}
+      MG-modified arg in RBD:        {column: MG-modified arg in RBD}
+      MG modification sites in RBD:  {column: MG modification sites in RBD}
+
+checks:
+  - type: contiguous_numbering
+
+  - type: column_sum
+    column: No of MG modification sites
+    equals: 353
+    evidence: totals row prints 353; Results states 353 unique modification sites
+
+  # The declared counts sum to 353, but the printed site lists hold only 343
+  # tokens; 8 rows disagree (e.g. Vimentin declares 20 and prints 19). Confirmed
+  # against the rendered page -- the paper's discrepancy, not an extraction one.
+  - type: declared_vs_listed
+    count_column: No of MG modification sites
+    token_column: MG modification sites
+    pattern: 'R\d+'
+    expect_offenders: [1, 2, 8, 11, 17, 43, 51, 58]
+    reason: >-
+      the declared counts sum to 353 but the printed lists hold 343 tokens;
+      e.g. Vimentin declares 20 and prints 19. Confirmed against the rendered page.
+
+  # Entry names here include TrEMBL forms with a 6-character mnemonic
+  # (E9PAM4_HUMAN), so the mnemonic is not capped at 5 characters.
+  - type: regex_column
+    column: Uniprot ID
+    pattern: '[A-Z0-9]{1,10}_HUMAN'
+
+  - type: cross_method_identifiers
+    column: Uniprot ID
+    pattern: '[A-Z0-9]{1,10}_HUMAN'
+    source_index: 0
+
+caveats:
+  - >-
+    Cell-free: a lysate spiked with exogenous MG, not adducts formed in living
+    cells. The in-cell counterpart is the 5-protein dataset
+    (ashour-2020-pdlf-incell).
+  - >-
+    The two RBD columns are a predicted functional-domain annotation of
+    already-detected sites. They carry no adduct evidence of their own.

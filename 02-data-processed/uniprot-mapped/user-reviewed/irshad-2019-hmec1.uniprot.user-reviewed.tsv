@@ -1,0 +1,16 @@
+From	Assigned by user	Assigned by user	Status	Notes
+"Aspartate aminotransferase, cytoplasmic	AATM"	P00505	AATM_HUMAN	reviewed	Hint AATM is correct; the printed name "cytoplasmic" is the error. Sites R68/R337/R407 are all Arg in AATM and none are in AATC (N/E/E). Total arg 21 matches AATM's mature chain exactly (23 in the precursor, 2 in the 29-aa transit peptide) - the paper counts Arg on the mature protein but numbers sites on the precursor.
+"T-complex protein 1 subunit delta	TPCD"	P50991	TCPD_HUMAN	reviewed	
+"40S ribosomal protein S7	TPD54"	P62081	RS7_HUMAN	reviewed	
+"Heat shock protein 70 kDa 1A	HSP71A"	P0DMV8	HS71A_HUMAN	reviewed	
+"Rho GDP-dissociation inhibitor 2	ARHGD1B"	P52566	GDIR2_HUMAN	reviewed	
+"T-complex protein 1 subunit theta	TPCQ"	P50990	TCPQ_HUMAN	reviewed	
+40S ribosomal protein S4	P62701	RS4X_HUMAN	reviewed	Site R77 is Arg in RPS4X but Ser in RPS2; Total arg 22 matches RPS4X exactly (RPS2 has 24). Row 85 separately covers RPS2 at R284.
+"Glucose-6-phosphate dehydrogenase	G6PDH"	P11413	G6PD_HUMAN	reviewed	Entry kept - G6PD is the only candidate. Site numbering does not reconcile: position 458 is Leu on canonical P11413-1 (515 aa) and the nearest Arg is R459, off by one; Arg count is 34 vs the declared 32. P11413 has Short and Long isoforms, so the paper's numbering likely follows a different one. Assignment unaffected.
+"Nucleosome assembly protein 1-like 1	NAPIL1"	P55209	NP1L1_HUMAN	reviewed	
+"Nucleosome assembly protein 1-like 4	NAPIL4"	Q99733	NP1L4_HUMAN	reviewed	
+Nucleoside diphosphate kinase (NME1-NME2)	Q32Q12	Q32Q12_HUMAN	reviewed	NME1-NME2 readthrough, as the label states. R113 is Arg here; NDKA and NDKB have Gly at 113 and only 8-9 Arg against the declared 16 (readthrough has 17).
+"Phosphatase 2A Inhibitor	I2PP2A"	Q01105	SET_HUMAN	reviewed	
+"Rho GDP-dissociation inhibitor 1	ARHGD1A"	P52565	GDIR1_HUMAN	reviewed	
+"T-complex protein 1 subunit epsilon	TPCE"	P48643	TCPE_HUMAN	reviewed	
+"T-complex protein 1 subunit gamma	TPCG"	P49368	TCPG_HUMAN	reviewed	

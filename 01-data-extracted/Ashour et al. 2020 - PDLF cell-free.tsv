@@ -1,0 +1,173 @@
+No	Protein	Uniprot ID	No of MG modification sites	No of arg	MG modification sites	MG-modified arg in RBD	MG modification sites in RBD	source_file	source_table	source_row
+1	Vimentin	VIME_HUMAN	20	43	R78, R100, R113, R145, R155, R170, R175, R186, R207, R270, R273, R304, R310, R321, R345, R378, R401, R424, R450	11	R145, R175, R186, R207, R273, R304, R321, R345, R401, R424, R450	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 1
+2	Endoplasmic reticulum chaperone BiP	BIP_HUMAN	13	28	R74, R101, R197, R214, R306, R324, R367, R470, R532, R540, R562	2	R214, R532	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 2
+3	Endoplasmin	ENPL_HUMAN	12	37	R43, R51, R67, R84, R116, R156, R395, R415, R448, R505, R557, R690	4	R43, R51, R156, R690	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 3
+4	Prelamin-A/C	LMNA_HUMAN	10	64	R62, R72, R101, R156, R275, R351, R377, R439, R527, R541	2	R156, R275	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 4
+5	Plectin	PLEC_HUMAN	9	453	R248, R258, R349, R517, R587, R1782, R1824, R2141, R2265	3	R258, R517, R2141	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 5
+6	Cytoskeleton-associated protein 4	CKAP4_HUMAN	8	36	R177, R228, R326, R394, R429, R454, R491, R523	3	R228, R429, R454	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 6
+7	Stress-70 protein, mitochondrial	GRP75_HUMAN	8	36	R146, R218, R284, R391, R405, R541, R578, R634	2	R541, R578	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 7
+8	Actin, cytoplasmic 2	ACTG_HUMAN	6	18	R196, R206, R312, R372	3	R196, R312, R372	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 8
+9	Alpha-actinin-4	ACTN4_HUMAN	6	51	R79, R95, R204, R251, R439, R695	4	R79, R204, R251, R439	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 9
+10	Neuroblast differentiation- associated protein AHNAK	AHNK_HUMAN	6	44	R186, R1104, R1811, R2490, R3924, R5366			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 10
+11	Protein disulfide-isomerase	PDIA1_HUMAN	6	16	R97, R120, R132, R213, R300	2	R132, R213	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 11
+12	Annexin A6	ANXA6_HUMAN	5	42	R140, R206, R358, R427, R471	2	R140, R206	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 12
+13	Moesin	MOES_HUMAN	5	41	R40, R100, R233, R495, R533	2	R233, R533	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 13
+14	Protein disulfide-isomerase A4	PDIA4_HUMAN	5	22	R131, R155, R165, R370, R622	4	R155, R165, R370, R622	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 14
+15	Filamin-A	FLNA_HUMAN	4	93	R285, R921, R1312, R1381	2	R285, R1312	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 15
+16	Heat shock cognate 71 kDa protein	HSP7C_HUMAN	4	28	R155, R171, R342, R517	1	R155	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 16
+17	Protein disulfide-isomerase A6	PDIA6_HUMAN	4	20	R132, R256, R386			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 17
+18	10 kDa heat shock protein, mitochondrial	CH10_HUMAN	3	4	R15, R20, R92			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 18
+19	14-3-3 protein zeta/delta	1433Z_HUMAN	3	11	R60, R91, R127			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 19
+20	Annexin A1	ANXA1_HUMAN	3	19	R124, R144, R177	1	R144	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 20
+21	Annexin A5	ANXA5_HUMAN	3	19	R18, R123, R245	1	R18	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p6 row 21
+22	Calreticulin	CALR_HUMAN	3	8	R73, R177, R222	1	R222	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 22
+23	Citrate synthase	CISY_HUMAN	3	21	R60, R81, R316			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 23
+24	Collagen alpha-1(I) chain	CO1A1_HUMAN	3	71	R598, R1036, R1252	1	R1252	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 24
+25	Fructose-bisphosphate aldolase A	ALDOA_HUMAN	3	15	R22, R43, R259	1	R43	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 25
+26	Galectin-1	LEG1_HUMAN	3	5	R49, R74, R112	3	R49, R74, R112	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 26
+27	Glucosidase 2 subunit beta	GLU2B_HUMAN	3	20	R124, R381, R484	1	R484	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 27
+28	Glutamate dehydrogenase 1, mitochondrial	DHE3_HUMAN	3	35	R151, R274, R516			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 28
+29	Heterogeneous nuclear ribonucleoprotein Q	HNRPQ_HUMAN	3	45	R60, R171, R343			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 29
+30	Isoform 2 of Heterogeneous nuclear ribonucleoprotein A1	ROA1_HUMAN	3	24	R75, R140, R146	3	R75, R140, R146	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 30
+31	Isoform 4 of Perilipin-3	PLIN3_HUMAN	3	19	R98, R143, R168			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 31
+32	Phosphoglycerate kinase 1	PGK1_HUMAN	3	11	R66, R171, R206			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 32
+33	Protein disulfide-isomerase A3	PDIA3_HUMAN	3	22	R119, R140, R448			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 33
+34	Ribosome-binding protein 1	RRBP1_HUMAN	3	46	R669, R1227, R1333			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 34
+35	Tropomyosin alpha-4 chain	TPM4_HUMAN	3	18	R27, R142, R208	1	R27	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 35
+36	Vinculin	VINC_HUMAN	3	67	R56, R113, R669			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 36
+37	Voltage-dependent anion- selective channel protein 1	VDAC1_HUMAN	3	7	R63, R93, R163	2	R63, R163	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 37
+38	6-phosphogluconate dehydrogenase, decarboxylating	6PGD_HUMAN	2	20	R111, R382	2	R111, R382	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 38
+39	60 kDa heat shock protein, mitochondrial	CH60_HUMAN	2	22	R121, R370	1	R370	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 39
+40	Aconitate hydratase, mitochondrial	ACON_HUMAN	2	34	R548, R632			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 40
+41	Annexin A4	ANXA4_HUMAN	2	24	R24, R96	1	R96	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 41
+42	Calmodulin	CALM3_HUMAN	2	6	R75, R91			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 42
+43	Elongation factor 2	EF2_HUMAN	2	44	R647	1	R647	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 43
+44	Endoplasmic reticulum resident protein 44	ERP44_HUMAN	2	24	R148, R285			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 44
+45	Glucose-6-phosphate isomerase (Fragment)	G6PI_HUMAN	2	27	R81, R111			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 45
+46	Heat shock protein HSP 90- beta	HS90B_HUMAN	2	32	R504, R639	2	R504, R639	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 46
+47	Heterogeneous nuclear ribonucleoproteins A2/B1	ROA2_HUMAN	2	24	R38, R147	1	R147	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p7 row 47
+48	Isoform 4 of Inhibitor of nuclear factor kappa-B kinase- interacting protein	IKIP_HUMAN	2	17	R218, R285			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 48
+49	L-lactate dehydrogenase B chain	LDHB_HUMAN	2	8	R100, R113	1	R100	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 49
+50	Malate dehydrogenase, mitochondrial	MDHM_HUMAN	2	10	R52, R191			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 50
+51	Membrane-associated progesterone receptor component 2	PGRC2_HUMAN	2	14	R101	1	R101	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 51
+52	Microtubule-associated protein 1B	MAP1B_HUMAN	2	64	R990, R1495	2	R990, R1495	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 52
+53	NADH-cytochrome b5 reductase 3	NB5R3_HUMAN	2	18	R143, R192			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 53
+54	Nucleolin	NUCL_HUMAN	2	26	R420, R457			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 54
+55	Peptidyl-prolyl cis-trans isomerase B	PPIB_HUMAN	2	9	R109, R180			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 55
+56	Prolyl 4-hydroxylase subunit alpha-1	P4HA1_HUMAN	2	26	R90, R136	1	R90	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 56
+57	Protein S100-A11	S10AB_HUMAN	2	2	R12, R62			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 57
+58	Protein S100-A6	S10A6_HUMAN	2	3	R55			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 58
+59	Reticulocalbin-1	RCN1_HUMAN	2	23	R90, R188	1	R188	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 59
+60	SH3 domain-binding glutamic acid-rich-like protein 3	SH3L3_HUMAN	2	6	R159, R180			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 60
+61	Stress-induced-phosphoprotein 1	STIP1_HUMAN	2	26	R305, R351			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 61
+62	Talin-1	TLN1_HUMAN	2	105	R606, R1122			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 62
+63	Transgelin	TAGL_HUMAN	2	11	R128, R146	1	R146	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 63
+64	Transmembrane emp24 domain-containing protein 10	TMEDA_HUMAN	2	14	R71, R116			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 64
+65	14-3-3 protein epsilon	1433E_HUMAN	1	14	R225			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 65
+66	26S proteasome non-ATPase regulatory subunit 7	PSMD7_HUMAN	1	11	R25			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 66
+67	40S ribosomal protein S17	RS17_HUMAN	1	13	R81	1	R81	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 67
+68	40S ribosomal protein S28	RS28_HUMAN	1	10	R31			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 68
+69	60S acidic ribosomal protein P2	RLA2_HUMAN	1	1	R38	1	R38	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 69
+70	Acyl-CoA-binding protein	ACBP_HUMAN	1	2	R100			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p8 row 70
+71	Adenylate kinase 2, mitochondrial	KAD2_HUMAN	1	15	R138			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 71
+72	Adenylyl cyclase-associated protein 1	CAP1_HUMAN	1	12	R167			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 72
+73	Alpha-actinin-1	ACTN1_HUMAN	1	54	R60	1	R60	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 73
+74	Alpha-enolase	ENOA_HUMAN	1	17	R32			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 74
+75	Annexin A11	ANX11_HUMAN	1	27	R494	1	R494	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 75
+76	Annexin A2	ANXA2_HUMAN	1	21	R273			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 76
+77	Proliferation marker protein Ki- 67	KI67_HUMAN	1	196	R1939	1	R1939	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 77
+78	Apoptotic chromatin condensation inducer in the nucleus	ACINU_HUMAN	1	148	R1176			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 78
+79	ATP synthase subunit alpha, mitochondrial	ATPA_HUMAN	1	38	R149			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 79
+80	ATP synthase subunit beta, mitochondrial	ATPB_HUMAN	1	26	R456	1	R456	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 80
+81	Caldesmon (Fragment)	CALD1_HUMAN	1	86	R159	1	R159	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 81
+82	Calponin-2	CNN2_HUMAN	1	9	R35			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 82
+83	Capping protein (Actin filament) muscle Z-line, beta, isoform CRA_a	CAPZB_HUMAN	1	15	R213			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 83
+84	Catenin alpha-1	CTNA1_HUMAN	1	49	R165	1	R165	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 84
+85	Polymerase I and transcript release factor	CAVN1_HUMAN	1	29	R355	1	R355	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 85
+86	CD99 antigen	CD99_HUMAN	1	5	R170	1	R170	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 86
+87	Chloride intracellular channel protein 1	CLIC1_HUMAN	1	9	R165	1	R165	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 87
+88	Coactosin-like protein	COTL1_HUMAN	1	7	R91	1	R91	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 88
+89	Cofilin-1	COF1_HUMAN	1	4	R119			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 89
+90	Collagen alpha-2(I) chain	CO1A2_HUMAN	1	72	R1154			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 90
+91	Collagen alpha-2(VI) chain	CO6A2_HUMAN	1	68	R993			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 91
+92	Collagen alpha-3(VI) chain	CO6A3_HUMAN	1	188	R925			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 92
+93	Complement component 1 Q subcomponent-binding protein, mitochondrial	C1QBP_HUMAN	1	15	R94	1	R94	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 93
+94	D-tyrosyl-tRNA(Tyr) deacylase (Fragment)	DTD1_HUMAN	1	13	R78			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p9 row 94
+95	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate	ODO2_HUMAN	1	30	R144	1	R144	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 95
+96	DNA damage-binding protein 1	DDB1_HUMAN	1	48	R1102	1	R1102	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 96
+97	Dolichyl- diphosphooligosaccharide-- protein glycosyltransferase	RPN1_HUMAN	1	29	R536	1	R536	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 97
+98	Dynactin subunit 2	DCTN2_HUMAN	1	14	R282			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 98
+99	Elongation factor 1-alpha 1	EF1A1_HUMAN	1	17	R96			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 99
+100	Endoplasmic reticulum resident protein 29	ERP29_HUMAN	1	8	R75			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 100
+101	Enoyl-CoA hydratase, mitochondrial	ECHM_HUMAN	1	12	R54	1	R54	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 101
+102	Epoxide hydrolase 1	HYEP_HUMAN	1	21	R267			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 102
+103	Eukaryotic translation initiation factor 4B	IF4B_HUMAN	1	78	R165	1	R165	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 103
+104	Eukaryotic translation initiation factor 5A-1	IF5A1_HUMAN	1	5	R86	1	R86	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 104
+105	Filamin-C	FLNC_HUMAN	1	117	R916			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 105
+106	Glutathione S-transferase omega-1	GSTO1_HUMAN	1	9	R48			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 106
+107	Glyceraldehyde-3-phosphate dehydrogenase	G3P_HUMAN	1	10	R80	1	R80	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 107
+108	Heat shock protein beta-1	HSPB1_HUMAN	1	16	R188	1	R188	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 108
+109	Heat shock protein HSP 90- alpha	HS90A_HUMAN	1	30	R46			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 109
+110	Heterogeneous nuclear ribonucleoprotein F	HNRPF_HUMAN	1	24	R52	1	R52	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 110
+111	Hypoxia up-regulated protein 1	HYOU1_HUMAN	1	57	R729			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 111
+112	Integrin beta-1	ITB1_HUMAN	1	29	R174			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 112
+113	Interleukin enhancer-binding factor 2	ILF2_HUMAN	1	22	R65			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 113
+114	Interleukin enhancer-binding factor 3	ILF3_HUMAN	1	37	R177			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 114
+115	Isoform 2 of Band 4.1-like protein 3	E41L3_HUMAN	1	54	R525			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 115
+116	Isoform 2 of Gelsolin	GELS_HUMAN	1	42	R575			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p10 row 116
+117	Isoform 2 of Tropomyosin alpha-3 chain	TPM3_HUMAN	1	14	R142			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 117
+118	Isoform 2 of Vesicle- associated membrane protein- associated protein A	VAPA_HUMAN	1	13	R127			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 118
+119	Isoform 3 of Nucleoside diphosphate kinase B	NDKB_HUMAN	1	9	R173			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 119
+120	Isoform 7 of CD44 antigen	CD44_HUMAN	1	34	R665			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 120
+121	Isoform Cytoplasmic of Fumarate hydratase, mitochondrial	FUMH_HUMAN	1	19	R243			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 121
+122	L-lactate dehydrogenase A	LDHA_HUMAN	1	11	R99	1	R99	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 122
+123	Lamina-associated polypeptide 2, isoforms beta/gamma	LAP2A_HUMAN	1	34	R33			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 123
+124	Laminin subunit gamma-1	LAMC1_HUMAN	1	95	R149			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 124
+125	Leucine-rich PPR motif- containing protein, mitochondrial	LPPRC_HUMAN	1	67	R1223			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 125
+126	LIM domain and actin-binding protein 1	LIMA1_HUMAN	1	42	R335			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 126
+127	Lupus La protein	LA_HUMAN	1	17	R266			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 127
+128	MARCKS-related protein	MRP_HUMAN	1	3	R10			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 128
+129	Membrane-associated progesterone receptor component 1	PGRC1_HUMAN	1	11	R47			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 129
+130	Multifunctional protein ADE2 (Fragment)	PUR6_HUMAN	1	16	R298			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 130
+131	Multiple coagulation factor deficiency protein 2	MCFD2_HUMAN	1	4	R126			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 131
+132	Myristoylated alanine-rich C- kinase substrate	MARCS_HUMAN	1	2	R18			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 132
+133	Nardilysin	NRDC_HUMAN	1	47	R762			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 133
+134	Nascent polypeptide- associated complex subunit	NACAM_HUMAN	1	17	R1949			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 134
+135	Nucleobindin 2, isoform CRA_b	NUCB2_HUMAN	1	16	R311	1	R311	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 135
+136	Nucleophosmin	NPM_HUMAN	1	8	R291	1	R291	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 136
+137	Peptidyl-prolyl cis-trans isomerase A	PPIA_HUMAN	1	6	R148	1	R148	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p11 row 137
+138	Peroxiredoxin-6	PRDX6_HUMAN	1	12	R106			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 138
+139	Phosphatidylethanolamine- binding protein 1	PEBP1_HUMAN	1	9	R49			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 139
+140	Presequence protease, mitochondrial	PREP_HUMAN	1	50	R405			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 140
+141	Profilin-1	PROF1_HUMAN	1	5	R89			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 141
+142	Prohibitin-2	PHB2_HUMAN	1	24	R209	1	R209	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 142
+143	Prosaposin	SAP_HUMAN	1	8	R421			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 143
+144	Protein deglycase DJ-1	PARK7_HUMAN	1	7	R48			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 144
+145	Protein DEK	DEK_HUMAN	1	15	R29	1	R29	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 145
+146	Protein ERGIC-53	LMAN1_HUMAN	1	29	R373	1	R373	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 146
+147	Protein LZIC	LZIC_HUMAN	1	9	R139			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 147
+148	Protein S100-A10	S10AA_HUMAN	1	2	R32			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 148
+149	Protein S100-A13	S10AD_HUMAN	1	5	R78			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 149
+150	Protein transport protein Sec61 subunit beta	SC61B_HUMAN	1	7	R95			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 150
+151	Pyruvate kinase PKM	KPYM_HUMAN	1	31	R246			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 151
+152	Rab GDP dissociation inhibitor beta	GDIB_HUMAN	1	22	R367			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 152
+153	Reticulocalbin-3	RCN3_HUMAN	1	26	R214	1	R214	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 153
+154	Reticulon-3	RTN3_HUMAN	1	24	R1009			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 154
+155	Rho GDP-dissociation inhibitor 1	GDIR1_HUMAN	1	9	R49	1	R49	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 155
+156	S-phase kinase-associated protein 1	SKP1_HUMAN	1	3	R81	1	R81	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 156
+157	Septin-2	SEPT2_HUMAN	1	24	R91			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 157
+158	Surfeit locus protein 4	SURF4_HUMAN	1	9	R19			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 158
+159	TATA element modulatory factor	TMF1_HUMAN	1	53	R934			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 159
+160	Thioredoxin domain- containing protein 5	TXND5_HUMAN	1	18	R134			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 160
+161	Thioredoxin-dependent peroxide reductase, mitochondrial	PRDX3_HUMAN	1	10	R170			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 161
+162	Transaldolase	TALDO_HUMAN	1	15	R239			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 162
+163	Transgelin-2	TAGL2_HUMAN	1	11	R49	1	R49	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 163
+164	Transmembrane emp24 domain-containing protein 9	TMED9_HUMAN	1	18	R169	1	R169	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 164
+165	Ubiquitin carboxyl-terminal hydrolase isozyme L1	UCHL1_HUMAN	1	9	R153	1	R153	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 165
+166	Ubiquitin-conjugating enzyme E2 N	UBE2N_HUMAN	1	9	R14			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p12 row 166
+167	Uncharacterized protein	E9PAM4_HUMAN	1	27	R205			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p13 row 167
+168	Very long-chain specific acyl- CoA dehydrogenase, mitochondrial	ACADV_HUMAN	1	34	R316			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p13 row 168
+169	Vesicle-associated membrane protein 3	VAMP3_HUMAN	1	6	R49	1	R49	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p13 row 169
+170	Voltage-dependent anion- selective channel protein 2	VDAC2_HUMAN	1	7	R263			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p13 row 170
+171	X-ray repair cross- complementing protein 5	XRCC5_HUMAN	1	27	R141			00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p13 row 171
+172	X-ray repair cross- complementing protein 6	XRCC6_HUMAN	1	32	R517	1	R517	00-data-raw/Ashour et al. - 2020/inline-supplementary-material-1.pdf	Table S2	p13 row 172

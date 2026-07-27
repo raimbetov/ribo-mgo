@@ -1,0 +1,95 @@
+id: irshad-2019-hmec1
+paper: Irshad et al. 2019
+doi: 10.1038/s41598-019-44358-1
+cell_line: HMEC-1
+system: cell-free
+condition: cytosolic protein extract incubated with 500 uM exogenous MG for 24 h
+adducts:
+  - MG-H1 (+54 Da, Arg)
+adduct_evidence: >-
+  Results: "we interrogated proteomics data for evidence of proteins modified by MG
+  (+54 Da mass increment on arginine residues, reflecting MG-H1 formation)"; and
+  "there were a total of 411 sites of MG-H1 modification detected on 220 proteins".
+output: Irshad et al. 2019 - HMEC-1.tsv
+expected_rows: 220
+count_evidence: >-
+  Table S3 prints "TOTAL: 220"; Results states "411 sites of MG-H1 modification
+  detected on 220 proteins with 1-11 sites modified per protein molecule".
+
+sources:
+  - model: pdf_anchor
+    file: 00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf
+    table: Table S3
+    pages: [12, 18]          # 0-based, inclusive
+    anchor_x: [55, 78]
+    anchor_max: 220
+    anchor_name: Protein no
+    # Rows 1-4 print the row number BELOW the protein name, so a word must go to
+    # the CLOSEST anchor rather than the nearest one above it.
+    assign: nearest
+    y_tol: 12
+    band: 3.0
+    drop_baselines_containing: ["TOTAL"]
+    columns:
+      - {name: Protein,                          x: [78, 380]}
+      - {name: Number of sites,                  x: [380, 412]}
+      - {name: Total arg,                        x: [412, 442]}
+      - {name: MG Modification sites,            x: [442, 645]}
+      - {name: MG Modification sites in the RBD, x: [645, 900]}
+    emit:
+      Protein no:                          {column: Protein no}
+      Protein:                             {column: Protein}
+      Number of sites:                     {column: Number of sites}
+      Total arg:                           {column: Total arg}
+      MG Modification sites:               {column: MG Modification sites}
+      MG Modification sites in the RBD:    {column: MG Modification sites in the RBD}
+
+checks:
+  - type: contiguous_numbering
+
+  - type: column_sum
+    column: Number of sites
+    equals: 411
+    evidence: table footer prints "TOTAL 411"
+
+  - type: token_sum
+    column: MG Modification sites
+    pattern: 'R\d+'
+    equals: 411
+    evidence: the printed site lists must independently reach the same total
+
+  # Rows 57 (FUBP2/KHSRP, declares 1 prints 2) and 72 (RhoGDI2/ARHGD1B, declares 2
+  # prints 1) disagree in the source. They offset, so both totals still reach 411.
+  # Transcribed as printed; reported, not corrected.
+  - type: declared_vs_listed
+    count_column: Number of sites
+    token_column: MG Modification sites
+    pattern: 'R\d+'
+    expect_offenders: [57, 72]
+    reason: >-
+      row 57 (FUBP2/KHSRP) declares 1 site and prints 2; row 72 (RhoGDI2/ARHGD1B)
+      declares 2 and prints 1. They offset, so both totals still reach 411.
+
+  # The RBD column is a PREDICTED functional-domain annotation, not adduct
+  # evidence, and it is shifted one row down in the PDF's own text layer over
+  # ~24 rows (e.g. row 86 RPS3A carries row 85 RPS2's site). A valid RBD cell must
+  # be a subset of that row's detected sites; where it is not, drop the column
+  # rather than publish misaligned data.
+  - type: subset
+    subset_column: MG Modification sites in the RBD
+    superset_column: MG Modification sites
+    pattern: 'R\d+'
+    on_fail: drop_column
+    reason: predicted annotation, misaligned in the source PDF
+
+  # NO cross_method_identifiers here, deliberately. That check compares a set of
+  # atomic identifiers (accessions, entry names); this table's key column is a
+  # free-text protein name that `pdftotext` word-splitting cannot reconstruct.
+  # The guard for this table is stronger anyway: the declared counts and the
+  # printed site tokens must EACH independently reach the published total of 411.
+
+caveats:
+  - >-
+    Cell-free: this is a lysate spiked with exogenous MG, not adducts formed in
+    living cells. The in-cell counterpart for this paper is the 2-protein HAEC
+    dataset (irshad-2019-haec).

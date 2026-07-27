@@ -1,0 +1,2 @@
+From	Selected Entry	Selected Entry Name	Confidence	Reason	Alternative Entries
+"Rho GDP-dissociation inhibitor 2	RhoGDI2"	P52566	GDIR2_HUMAN	medium	Protein name and the hint 'RHOGDI2' point to different entries (selected GDIR2_HUMAN, genes ARHGDIB GDIA2 GDID4 RAP1GN1); check the source for a naming error.	P31150 (GDIA_HUMAN), P50395 (GDIB_HUMAN), P52565 (GDIR1_HUMAN)

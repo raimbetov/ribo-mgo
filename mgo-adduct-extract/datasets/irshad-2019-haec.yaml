@@ -1,0 +1,43 @@
+id: irshad-2019-haec
+paper: Irshad et al. 2019
+doi: 10.1038/s41598-019-44358-1
+cell_line: HAEC
+system: in-cell
+condition: cultured 6 days in 20 mM high D-glucose; endogenous MG
+adducts:
+  - MG-H1 (+54 Da, Arg)
+adduct_evidence: >-
+  Results: "In high glucose concentration cultures of HAECs, only two proteins were
+  detected with MG modification: rho GDP-dissociation inhibitor 2 (RhoGDI2) and far
+  upstream element-binding protein 2 (FUBP2)".
+output: Irshad et al. 2019 - HAEC.tsv
+expected_rows: 2
+count_evidence: 'Results: "only two proteins were detected with MG modification"'
+
+# Reported in the main-text Results only -- this paper publishes no table for the
+# in-cell result, so the rows are transcribed from prose.
+sources:
+  - model: literal
+    file: 00-full-text/Irshad et al. - 2019.pdf
+    table: >-
+      Main text Results, 'Targets of methylglyoxal modification in the cytosolic
+      proteome of endothelial cells'
+    row_ref: prose
+    columns: [Protein, Gene, MG Modification sites]
+    rows:
+      - ["Rho GDP-dissociation inhibitor 2", "RhoGDI2", "R148"]
+      - ["Far upstream element-binding protein 2", "FUBP2", "R331, R340"]
+    emit:
+      Protein:               {column: Protein}
+      Gene:                  {column: Gene}
+      MG Modification sites: {column: MG Modification sites}
+
+checks:
+  - type: no_blank
+    columns: [Protein, Gene, MG Modification sites]
+
+caveats:
+  - >-
+    FUBP2 also appears as row 57 of this paper's Table S3 with the same two sites
+    (R331, R340), which is a useful internal consistency check between the in-cell
+    and cell-free results.

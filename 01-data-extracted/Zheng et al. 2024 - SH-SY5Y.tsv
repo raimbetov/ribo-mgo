@@ -1,0 +1,78 @@
+No.	Protein ID	Protein name	Gene name	J statistic	p-value	source_file	source_table	source_row
+1	P08670	Vimentin	VIM	4.40	0.00001	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 1
+2	P68371	Tubulin beta-4B chain	TUBB4B	4.37	0.00001	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 2
+3	Q5QNW6	Histone H2B type 2-F	H2BC18	4.08	0.00004	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 3
+4	P26641	Elongation factor 1-gamma	EEF1G	4.05	0.00005	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 4
+5	P60660	Myosin light polypeptide 6	MYL6	2.96	0.00310	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 5
+6	P63261	Actin, cytoplasmic 2, N-terminally processed	ACTG1	2.29	0.02	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 6
+7	P22732	Solute carrier family 2, facilitated glucose transporter member 5	SLC2A5	2.25	0.02	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 7
+8	Q9Y2V2	Calcium-regulated heat-stable protein 1	CARHSP1	2.16	0.03	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 8
+9	Q08378	Golgin subfamily A member 3	GOLGA3	1.70	0.09	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 9
+10	Q6NSI1	Putative ankyrin repeat domain-containing protein 26-like protein	ANKRD26P1	1.56	0.12	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 10
+11	Q9Y2F9	BTB/POZ domain-containing protein 3	BTBD3	1.51	0.13	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 11
+12	Q9NXL9	DNA helicase MCM9	MCM9	1.25	0.21	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 12
+13	Q8IVE3	Pleckstrin homology domain-containing family H member 2	PLEKHH2	1.05	0.29	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 13
+14	Q8NCL9	Protein APCDD1-like	APCDD1L	0.98	0.33	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 14
+15	Q86Y07	Serine/threonine-protein kinase VRK2	VRK2	0.89	0.37	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 15
+16	P52298	Nuclear cap-binding protein subunit 2	NCBP2	0.88	0.38	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 16
+17	Q9BXF9	Tektin-3	TEKT3	0.63	0.53	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 17
+18	P60709	Actin, cytoplasmic 1, N-terminally processed	ACTB	0.63	0.53	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 18
+19	A5A3E0	POTE ankyrin domain family member F	POTEF	0.63	0.53	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 19
+20	P48643	T-complex protein 1 subunit epsilon	CCT5	0.57	0.57	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 20
+21	P61550	Endogenous retrovirus group S71 member 1 Env polyprotein	ERVS71-1	0.37	0.71	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 21
+22	P52790	Hexokinase-3	HK3	0.33	0.74	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 22
+23	P61160	Actin-related protein 2	ACTR2	0.24	0.81	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 23
+24	P52179	Myomesin-1	MYOM1	0.14	0.89	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 24
+25	P09874	Poly [ADP-ribose] polymerase 1	PARP1	0.05	0.96	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 25
+26	O75182	Paired amphipathic helix protein Sin3b	SIN3B	0.05	0.96	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 26
+27	P43354	Nuclear receptor subfamily 4 group A member 2	NR4A2	0.05	0.96	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 27
+28	Q9UJW0	Dynactin subunit 4	DCTN4	0.05	0.96	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 28
+29	Q9H4B7	Tubulin beta-1 chain	TUBB1	0.00	1.00	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 29
+30	Q9H3R1	Bifunctional heparan sulfate N-deacetylase/N- sulfotransferase 4	NDST4	-0.05	0.96	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 30
+31	Q2VY69	Zinc finger protein 284	ZNF284	-0.05	0.96	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 31
+32	O75541	Zinc finger protein 821	ZNF821	-0.10	0.92	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 32
+33	Q96QB1	Rho GTPase-activating protein 7	DLC1	-0.17	0.86	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 33
+34	Q9NWS8	Required for meiotic nuclear division protein 1 homolog	RMND1	-0.19	0.85	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 34
+35	Q8N8I0	Sterile alpha motif domain containing 12.	SAMD12	-0.19	0.85	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 35
+36	P51553	Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial	IDH3G	-0.20	0.85	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 36
+37	P52789	Hexokinase-2	HK2	-0.23	0.81	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 37
+38	Q9H069	Dynein regulatory complex subunit 3	DRC3	-0.24	0.81	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 38
+39	P56524	Histone deacetylase 4	HDAC4	-0.28	0.78	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 39
+40	Q96AA8	Janus kinase and microtubule interacting protein 2	JAKMIP2	-0.38	0.70	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p2 row 40
+41	P13639	Elongation factor 2	EEF2	-0.47	0.64	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 41
+42	P60510	Serine/threonine-protein phosphatase 4 catalytic subunit	PPP4C	-0.56	0.58	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 42
+43	Q9NWB1	RNA binding protein fox-1 homolog 1	RBFOX1	-0.56	0.57	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 43
+44	P17038	Zinc finger protein 43	ZNF43	-0.70	0.48	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 44
+45	Q5T7B8	Kinesin-like protein KIF24	KIF24	-0.72	0.47	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 45
+46	A5PLL1	Ankyrin repeat domain 34B	ANKRD34B	-0.75	0.46	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 46
+47	Q9H0K1	Serine/threonine-protein kinase SIK2	SIK2	-0.75	0.46	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 47
+48	Q8IZH2	5'-3' exoribonuclease 1	XRN1	-0.80	0.43	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 48
+49	Q14683	Structural maintenance of chromosomes protein 1A	SMC1A	-0.89	0.37	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 49
+50	Q92576	PHD finger protein 3.	PHF3	-0.89	0.37	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 50
+51	Q4J6C6	Prolyl endopeptidase-like	PREPL	-0.93	0.35	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 51
+52	P16152	Carbonyl reductase [NADPH] 1	CBR1	-0.99	0.32	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 52
+53	Q00872	Myosin-binding protein C, slow-type	MYBPC1	-1.08	0.28	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 53
+54	Q86VV8	Rotatin	RTTN	-1.08	0.28	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 54
+55	P52566	Rho GDP-dissociation inhibitor 2	ARHGDIB	-1.13	0.26	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 55
+56	Q9HCD5	Nuclear receptor coactivator 5	NCOA5	-1.17	0.24	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 56
+57	Q13751	Laminin subunit beta-3	LAMB3	-1.27	0.20	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 57
+58	O94906	Pre-mRNA-processing factor 6	PRPF6	-1.30	0.19	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 58
+59	P10827	Thyroid hormone receptor alpha	THRA	-1.31	0.19	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 59
+60	Q70UQ0	IKBKB interacting protein.	IKBIP	-1.50	0.13	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 60
+61	Q8IXZ2	Zinc finger CCCH domain-containing protein 3	ZC3H3	-1.54	0.12	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 61
+62	Q9UGP8	Translocation protein SEC63 homolog	SEC63	-1.61	0.11	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 62
+63	P35557	Hexokinase-4	GCK	-1.65	0.10	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 63
+64	A8MPP1	Putative ATP-dependent RNA helicase DDX11-like protein 8	DDX11L8	-1.68	0.09	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 64
+65	Q9Y4X0	AMMECR nuclear protein 1.	AMMECR1	-1.73	0.08	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 65
+66	P25874	Mitochondrial brown fat uncoupling protein 1	UCP1	-1.78	0.08	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 66
+67	P07355	AMMECR nuclear protein 1.	ANXA2	-1.83	0.07	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 67
+68	A6NLP5	Tetratricopeptide repeat domain 36.	TTC36	-1.86	0.06	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 68
+69	O14827	Ras-specific guanine nucleotide-releasing factor 2	RASGRF2	-1.88	0.06	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 69
+70	Q8TED4	Glucose-6-phosphate exchanger SLC37A2	SLC37A2	-1.91	0.06	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 70
+71	O15397	Importin-8	IPO8	-1.94	0.05	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 71
+72	Q9H3R0	Lysine-specific demethylase 4C	KDM4C	-2.02	0.04	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 72
+73	Q8TB72	Pumilio homolog 2	PUM2	-2.15	0.03	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 73
+74	Q8N3X1	Formin binding protein 4.	FNBP4	-2.20	0.03	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 74
+75	Q8N8K9	Uncharacterized protein KIAA1958	KIAA1958	-2.52	0.01	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 75
+76	Q13938	Calcyphosin	CAPS	-2.80	0.01	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 76
+77	O60304	Zinc finger protein 500	ZNF500	-2.87	0.004	00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf	Table S1	p3 row 77

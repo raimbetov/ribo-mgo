@@ -1,0 +1,149 @@
+id: alhujaily-2021-hek293
+paper: Alhujaily et al. 2021
+doi: 10.3389/fonc.2021.678343
+cell_line: HEK293
+system: in-cell
+condition: 131 uM MG (the measured GC50) for 6 h vs untreated control, n=3
+adducts:
+  - MG-H1
+adduct_evidence: >-
+  Methods: the Mascot search made "allowance ... for six trypsin-missed cleavages,
+  carbamidomethylated cysteine, MG-H1, and methionine sulfoxide residues", so a
+  protein reported as "containing MG-H1 residues" has an MS/MS-identified MG-H1
+  peptide. The paper states no delta mass.
+output: Alhujaily et al. 2021 - HEK293.tsv
+expected_rows: 147
+count_evidence: >-
+  Table S3 41 + Table S4 69 + Table S11 12 + main-text TABLE 4 16 +
+  TABLE 2 footnotes a/b 9 = 147 rows (142 unique proteins).
+
+# INCLUSION. Only tables carrying explicit adduct evidence are taken: those whose
+# titles say "containing MG-H1 residues" (S3, S4, S11), main-text TABLE 4
+# ("Spliceosome proteins detected with MG-H1 modification"), and the two TABLE 2
+# footnotes ("Proteins with MG-H1 modification were as follows"). Tables S1, S2 and
+# S5-S10 are abundance-change lists with no adduct evidence and are excluded, as is
+# TABLE 3 -- a DAVID enrichment of abundance-DECREASED proteins whose 51-gene
+# "Ribosome" row is the main trap in this paper.
+#
+# Sources are concatenated WITHOUT deduplication: TABLE 4 shares 5 proteins with
+# Table S4 (DHX15, FUS, HNRNPK, HNRNPM, HNRNPU), which stay as separate rows so the
+# evidence trail is visible.
+
+sources:
+  - &supp
+    model: pdf_anchor
+    file: 00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf
+    table: Table S3
+    pages: [26, 26]
+    anchor_x: [50, 71]
+    anchor_max: 41
+    anchor_name: 'No'
+    assign: below
+    y_tol: 14
+    band: 2.0
+    anchor_once_per_table: true
+    columns:
+      - {name: Gene,            x: [71, 152]}
+      - {name: Name of protein, x: [152, 505]}
+      - {name: Fold change,     x: [505, 600]}
+    emit: &supp_emit
+      Gene:                {column: Gene}
+      Name of protein:     {column: Name of protein}
+      Fold change:         {column: Fold change}
+      fraction:            {const: cytoplasm}
+      abundance_direction: {const: increased}
+
+  - <<: *supp
+    table: Table S4
+    pages: [27, 28]
+    anchor_max: 69
+    emit:
+      <<: *supp_emit
+      abundance_direction: {const: decreased}
+
+  - <<: *supp
+    table: Table S11
+    pages: [41, 41]
+    anchor_max: 12
+    emit:
+      <<: *supp_emit
+      fraction:            {const: mitochondrial membrane}
+      abundance_direction: {const: increased and decreased}
+
+  # Main-text TABLE 4. The embedded text on this page has no inter-word spacing, so
+  # it is parsed from the `pdftotext -layout` rendering instead of coordinates. The
+  # page is two-column with a wide gutter; some rows have no body text beside them,
+  # so the protein name ends at 3+ spaces OR end of line, never at a fixed width.
+  - model: pdf_text_rows
+    file: 00-full-text/Alhujaily et al. - 2021.pdf
+    table: TABLE 4
+    pages: [10, 10]          # 1-based, as pdftotext expects
+    regex: '^\s*(\d{1,2})\s{2,}([A-Z0-9]{2,12})\s{2,}([^\s].*?)(?:\s{3,}|\s*$)'
+    groups: ['No', Gene, Name of protein]
+    max_no: 16
+    row_ref: 'p10 row {no}'
+    emit:
+      Gene:                {column: Gene}
+      Name of protein:     {column: Name of protein}
+      Fold change:         {const: ''}
+      fraction:            {const: 'not stated (spliceosome, see Table 2)'}
+      abundance_direction: {const: not stated}
+
+  # TABLE 2 footnotes a and b are prose, not tables. These 9 proteins appear in no
+  # supplementary table.
+  - model: literal
+    file: 00-full-text/Alhujaily et al. - 2021.pdf
+    table: TABLE 2 footnote
+    row_ref: prose
+    columns: [Name of protein, Fold change, fraction, abundance_direction]
+    rows:
+      - ["Carbohydrate-response element-binding protein (Mondo A)", "263", "nucleus", "increased"]
+      - ["Protachykinin-1", "21", "nucleus", "increased"]
+      - ["Mitochondrial 3-ketoacyl-CoA thiolase", "15", "nucleus", "increased"]
+      - ["Diphthamide biosynthesis protein-1", "7", "nucleus", "increased"]
+      - ["Mitochondrial enoyl-CoA hydratase", "2", "nucleus", "increased"]
+      - ["ABHD14A", "0.08", "nucleus", "decreased"]
+      - ["Scaffold attachment factor", "8", "mitochondrial matrix and intermembrane space", "increased"]
+      - ["Metastasis suppressor protein-1", "7", "mitochondrial matrix and intermembrane space", "increased"]
+      - ["B-cell CLL/lymphoma 9-like protein", "0.02", "mitochondrial matrix and intermembrane space", "decreased"]
+    emit:
+      Gene:                {const: ''}
+      Name of protein:     {column: Name of protein}
+      Fold change:         {column: Fold change}
+      fraction:            {column: fraction}
+      abundance_direction: {column: abundance_direction}
+
+checks:
+  - type: no_blank
+    columns: [Name of protein]
+
+  # The three supplementary tables and TABLE 4 must all resolve a Gene symbol.
+  # Only the 9 TABLE 2 footnote rows legitimately have none -- the paper names no
+  # gene for them -- so pin that count; a parse that starts losing Gene cells fails.
+  # NOTE: `unique_column` is deliberately NOT used here. TABLE 4 shares 5 proteins
+  # with Table S4 (DHX15, FUS, HNRNPK, HNRNPM, HNRNPU) and those duplicates are the
+  # intended no-dedup behaviour.
+  - type: blank_count
+    column: Gene
+    equals: 9
+    reason: the 9 TABLE 2 footnote rows, for which the paper gives no gene symbol
+
+caveats:
+  - >-
+    COVERAGE: TABLE 2 reports 681 proteins detected with MG-H1 (cytoplasm 493,
+    nucleus 120, mitochondrial matrix+IMS 42, mitochondrial membrane 26). The
+    article names only those that ALSO changed significantly in abundance, plus
+    TABLE 4. So this file holds 142 unique proteins of 681 (~21%); the rest exist
+    only in PRIDE PXD029315 and would require re-searching the raw data.
+  - >-
+    Two protein-name cells are copy-paste errors in the published PDF: Table S3
+    row 27 (SLC6A9) carries FAAP20's name, and TABLE 4 row 11 (RBM22) carries
+    HSPA1B's name. Transcribed as printed -- map from the Gene column, not the name.
+  - >-
+    Table S11 has 12 rows while TABLE 2 states 2 up / 9 down for that fraction, a
+    published off-by-one. The 12 printed rows are taken.
+  - >-
+    The only cytoplasmic ribosomal protein with adduct evidence here is UBA52
+    (Ubiquitin-60S ribosomal protein L40, eL40), Table S4 row 35. RPS5, RPS23,
+    RPS14, RPLP1, RPL3 and RPL21 appear in this paper ONLY in abundance-change
+    tables or the TABLE 3 enrichment string and must not be admitted.

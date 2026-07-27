@@ -1,0 +1,6 @@
+From	Entry	Entry Name	Protein names	Gene Names	Organism	Source	Notes
+"beta-actin	ACTB"	P60709	ACTB_HUMAN	Actin, cytoplasmic 1 (EC 3.6.4.-) (Beta-actin)	ACTB	Homo sapiens (Human)	auto	
+"gamma-actin	ACTG1"	P63261	ACTG_HUMAN	Actin, cytoplasmic 2 (EC 3.6.4.-) (Gamma-actin)	ACTG1 ACTG	Homo sapiens (Human)	auto	
+"Filamin-A	FLNA"	P21333	FLNA_HUMAN	Filamin-A (FLN-A) (Actin-binding protein 280 (ABP-280)) (Alpha-filamin) (Endothelial actin-binding protein) (Filamin-1) (Non-muscle filamin)	FLNA FLN FLN1	Homo sapiens (Human)	auto	
+"Glutamine-rich protein 1	QRICH1"	Q2TAL8	QRIC1_HUMAN	Transcriptional regulator QRICH1 (Glutamine-rich protein 1)	QRICH1	Homo sapiens (Human)	auto	
+"U6 snRNA-associated Sm-like protein LSm3	LSM3"	P62310	LSM3_HUMAN	U6 snRNA-associated Sm-like protein LSm3	LSM3	Homo sapiens (Human)	auto	

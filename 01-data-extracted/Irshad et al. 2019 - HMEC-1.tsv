@@ -1,0 +1,221 @@
+Protein no	Protein	Number of sites	Total arg	MG Modification sites	source_file	source_table	source_row
+1	Pyruvate kinase-M (PKM)	11	31	R43, R56, R73, R106, R120, R278, R376, R383, R400, R461, R455	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 1
+2	β-Actin (ACTB)	9	19	R37, R39, R62, R177, R183, R196, R206, R256, R312	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 2
+3	α-Enolase (ENO1)	9	17	R15, R32, R50, R56, R132, R179, R183, R269, R412	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 3
+4	Heat shock protein HSP 90-beta (HSP90AB1)	9	32	R41, R82, R168, R197, R330, R338, R475, R504, R612	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 4
+5	Moesin (MOES)	7	40	R184, R233, R246, R427, R435, R460, R533	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 5
+6	Transketolase (TKT)	6	29	R246, R334, R474, R530, R609, R617	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 6
+7	Actin, γ-enteric smooth muscle (ACTG2)	6	18	R29, R38, R40, R63, R184, R257	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 7
+8	Glucose-6-phosphate isomerase (G6PI)	6	27	R66, R83, R96, R106, R370, R438	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 8
+9	Tubulin alpha-1A chain	6	21	R64, R79, R105, R121, R123, R221	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 9
+10	Heat shock protein HSP 90-alpha (HSP90AA1)	6	30	R46, R87, R201, R202, R620, R647	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 10
+11	Aldehyde dehydrogenase 16A1 (A16A1)	5	58	R117, R322, R334, R567, R629	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 11
+12	Glyceraldehyde-3-phosphate dehydrogenase (G3P)	5	10	R80, R118, R200, R234, R248	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 12
+13	Tropomyosin α4 chain (TPM4)	5	17	R27, R55, R89, R97, R123	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 13
+14	14-3-3 protein beta (1433B)	4	10	R20, R43, R62, R129	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 14
+15	14-3-3 protein zeta (1433Z)	4	11	R41, R56, R60, R127	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 15
+16	Actin, cytoplasmic 2 (ACTG1)	4	13	R28, R37, R39, R62	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 16
+17	Alpha-actin-1 (ACTA1)	4	10	R39, R41, R64, R97	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 17
+18	Alpha-actin-2 (ACTA2)	4	16	R39, R41, R185, R258	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 18
+19	β-Actin-like protein 2 (ACTBL2)	4	20	R184, R197, R207, R257	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 19
+20	Annexin A1 (ANXA1)	4	19	R124, R144, R177, R228	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 20
+21	Elongation factor 2 (EEF2)	4	44	R10, R20, R506, R726	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 21
+22	Heat shock cognate 71 kDa protein (HSPA8)	4	28	R77, R100, R301, R342	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 22
+23	L-lactate dehydrogenase A chain (LDHA)	4	11	R99, R157, R169, R315	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 23
+24	Phosphoglycerate kinase 1 (PGK1)	4	11	R39, R151, R171, R206	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 24
+25	Protein disulfide-isomerase A3 (PDIA3)	4	23	R37, R304, R326, R423	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 25
+26	T-complex protein 1 subunit beta (CCT2)	4	22	R57, R89, R138, R156	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 26
+27	Thyroid autoantigen 70kDa (XRCC6)	4	32	R35, R194, R290, R301	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 27
+28	Tropomyosin α3 chain (TPM3)	4	18	R126, R134, R161, R168	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 28
+29	14-3-3 protein gamma (1433G)	3	13	R12, R19, R61	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 29
+30	40S ribosomal protein S3 (RPS3)	3	18	R45, R67, R76	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 30
+31	78 kDa glucose-regulated protein (GRP78)	3	28	R97, R101, R181	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 31
+32	Aspartate aminotransferase, cytoplasmic (AATM)	3	21	R68, R337, R407	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 32
+33	Elongation factor 1-alpha 2 (EEF1A2)	3	18	R134, R427, R430	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 33
+34	Ezrin (EZR)	3	46	R40, R151, R246	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 34
+35	Inosine-5'-monophosphate dehydrogenase 2 (IMPDH2)	3	22	R182, R412, R493	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 35
+36	L-lactate dehydrogenase B chain (LDHB)	3	8	R107, R170, R172	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 36
+37	Proteasome subunit B5 (PSMB5)	3	18	R68, R132, R166	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 37
+38	Ribosomal protein L5 (RPL5)	3	24	R179, R209, R248	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p13 row 38
+39	Ribosomal protein L15 (RL15)	3	25	R96, R105, R108	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 39
+40	T-complex protein 1 subunit delta (TPCD)	3	28	R49, R206, R240	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 40
+41	Transitional endoplasmic reticulum ATPase (VCP)	3	58	R225, R287, R323	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 41
+42	Triosephosphate isomerase (TPI1)	3	11	R137, R172, R243	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 42
+43	Tubulin beta (TUBB)	3	22	R121, R241, R251	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 43
+44	Tumor protein D54 (TPD52L2)	3	8	R153, R170, R182	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 44
+45	14-3-3 protein epsilon (1433E)	2	14	R57, R61	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 45
+46	14-3-3 protein eta (1433F)	2	12	R42, R61	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 46
+47	40S ribosomal protein S7 (TPD54)	2	14	R41, R120	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 47
+48	40S ribosomal protein S8 (RPS8)	2	23	R77, R92	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 48
+49	40S ribosomal protein S19 (RPS19)	2	11	R16, R56	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 49
+50	60S ribosomal protein L7 (RPL7)	2	27	R154, R166	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 50
+51	60S ribosomal protein L23a (RPL23A)	2	10	R129, R139	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 51
+52	60S acidic ribosomal protein P0 (RPLP0)	2	14	R149, R247	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 52
+53	Aconitate hydratase, mitochondrial (ACO2)	2	35	R607, R632	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 53
+54	Annexin A5 (ANXA5)	2	18	R123, R245	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 54
+55	Alanine--tRNA ligase, cytoplasmic (AARS)	2	47	R320, R751	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 55
+56	Caveolae-associated protein 1 (CAVIN1)	2	29	R130, R329	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 56
+57	Far upstream element-binding protein 2 (KHSRP)	1	30	R331, R340	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 57
+58	Filamin A (FLNA)	2	93	R1060, R1782	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 58
+59	GTP-binding nuclear protein Ran (RAN)	2	9	R29, R106	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 59
+60	Heat shock protein 70 kDa 1A (HSP71A)	2	41	R342, R357	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 60
+61	Heterogeneous nuclear ribonucleoproteins C (HNRPC)	2	18	R17, R73	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 61
+62	Endoplasmin (HSP90B1)	2	16	R84, R102	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 62
+63	Nucleolin (NCL)	2	26	R597, R599	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 63
+64	Peroxiredoxin-1 (PRDX1)	2	6	R110, R128	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 64
+65	Peroxiredoxin-5 (PRDX5)	2	11	R148, R180	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 65
+66	Peroxiredoxin-6 (PRDX6)	2	12	R132, R174	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 66
+67	Proteasome subunit A3 (PSMA3)	2	13	R72, R233	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 67
+68	Proteasome subunit A7 (PSMA7)	2	18	R38, R213	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 68
+69	Protein disulfide-isomerase A1 (PDIA1)	2	15	R106, R452	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 69
+70	Protein disulfide-isomerase A3 (PDIA3)	1	23	R38	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 70
+71	Protein disulfide-isomerase A4 (PDIA4)	2	23	R131, R155	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 71
+72	Rho GDP-dissociation inhibitor 2 (ARHGD1B)	2	6	R131	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 72
+73	Ribose-phosphate pyrophosphokinase 2 (PRPS2)	2	15	R177, R302	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 73
+74	Ribosomal protein L19 (RPL19)	2	31	R162, R163	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 74
+75	Serine hydroxymethyltransferase (GLYC)	2	29	R272, R355	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 75
+76	SH3 domain-binding protein 5-like (SH3BP5L)	2	40	R19, R51	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 76
+77	Stress-70 protein, mitochondrial (HSPA9)	2	35	R146, R405	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 77
+78	Stress-induced-phosphoprotein 1 (STIP1)	2	27	R355, R443	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 78
+79	T-complex protein 1 subunit theta (TPCQ)	2	18	R165, R407	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 79
+80	Transglutaminase-2 (TGM2)	2	38	R476, R680	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 80
+81	TubulinTubulin alpha-1C chain (TUBA1C)	2	19	R79, R105	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 81
+82	Vimentin (VIM)	2	43	R401, R223	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 82
+83	WD repeat-containing protein 1 (WDR1)	2	18	R116, R396	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p14 row 83
+84	10 kDa heat shock protein, mitochondrial (HSPE1)	1	4	R20	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 84
+85	40S Ribosomal protein S2 (RPS2)	1	24	R284	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 85
+86	40S ribosomal protein S3a (RPS3A)	1	14	R174	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 86
+87	40S ribosomal protein S4	1	22	R77	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 87
+88	40S ribosomal protein S6 (RPS6)	1	31	R31	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 88
+89	40S ribosomal protein S9 (RPS9)	1	16	R24	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 89
+90	40S ribosomal protein S10 (RPS10)	1	16	R8	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 90
+91	40S ribosomal protein S11 (RPS11)	1	14	R22	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 91
+92	40S ribosomal protein S18 (RPS18)	1	20	R86	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 92
+93	40S ribosomal protein S27 (RPS27)	1	2	R23	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 93
+94	60S acidic ribosomal protein P2 (RPLP2)	1	2	R38	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 94
+95	60S ribosomal protein L6 (RPL6)	1	23	R156	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 95
+96	60S ribosomal protein L10a (RPL10A)	1	11	R7	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 96
+97	60S ribosomal protein L12 (RPL12)	1	10	R117	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 97
+98	60S ribosomal protein L13 (RPL13)	1	31	R116	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 98
+99	60S ribosomal protein L13a (RPL13A)	1	22	R12	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 99
+100	60S ribosomal protein L22 (RPL22)	1	6	R65	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 100
+101	60S ribosomal protein L27 (RPL27)	1	13	R102	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 101
+102	60S Ribosomal protein L27a (RPL27A)	1	13	R105	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 102
+103	60S ribosomal protein L30 (RPL30)	1	5	R17	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 103
+104	60S ribosomal protein L31 (RPL31)	1	16	R14	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 104
+105	60S ribosomal protein L34 (RPL34)	1	14	R93	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 105
+106	116 kDa U5 small nuclear ribonucleoprotein component (EFTUD2)	1	41	R803	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 106
+107	Acidic leucine-rich nuclear phosphoprotein 32 (ANP32A)	1	11	R150	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 107
+108	Actin related protein 2/3 complex subunit 1A (ARPC1A)	1	17	R89	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 108
+109	Actin related protein 2/3 complex, 1B, 41kDa (ARPC1B)	1	17	R179	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 109
+110	Actin-related protein 2/3 complex subunit 2 (ARPC2)	1	17	R78	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 110
+111	Actin-related protein 2/3 complex subunit 4 (ARPC4)	1	12	R158	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 111
+112	Actin-related protein 2/3 complex subunit 5 (ARPC5)	1	6	R74	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 112
+113	Actin-related protein 3 (ACTR3)	1	24	R79	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 113
+114	Adenosylhomocysteinase (AHCY)	1	17	R205	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 114
+115	S-Adenosylmethionine synthase isoform type-2 (MAT2A)	1	20	R343	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 115
+116	ADP-ribose pyrophosphatase, mitochondrial (NUDT9)	1	21	R247	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 116
+117	Alpha-actinin-4 (ACTN4)	1	47	R869	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 117
+118	Annexin A2 (ANXA2)	1	21	R168	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 118
+119	Annexin A2-like protein (ANXA2P2)	1	20	R168	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 119
+120	Arginine--tRNA ligase (RARS)	1	35	R659	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 120
+121	Asparagine synthetase [glutamine-hydrolyzing] (ASNS)	1	27	R143	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 121
+122	Asparagine--tRNA ligase, cytoplasmic (NARS)	1	38	R390	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 122
+123	Aspartate-tRNA ligase, cytoplasmic (DARS)	1	34	R320	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 123
+124	Astrocytic phosphoprotein PEA-15 (PEA15)	1	6	R101	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 124
+125	ATP-citrate synthase (ACLY)	1	48	R607	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 125
+126	ATP-dependent 6-phosphofructokinase, platelet type (PFKP)	1	48	R44	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 126
+127	ATP-dependent RNA helicase A (DHX9)	1	73	R447	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 127
+128	Bifunctional glutamate/proline-tRNA ligase (EPRS)	1	56	R1463	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p15 row 128
+129	Calreticulin (CALR)	1	8	R222	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 129
+130	Casein kinase II subunit alpha (CSNK2A1)	1	27	R191	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 130
+131	Casein kinase II subunit alpha 3 (CSNK2A3)	1	28	R191	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 131
+132	Cathepsin Z (CTSZ)	1	21	R199	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 132
+133	Coactosin-like protein (COTL1)	1	7	R91	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 133
+134	Cytosolic acyl coenzyme A thioester hydrolase (ACOT7)	1	28	R61	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 134
+135	Dihydropteridine reductase (QDPR)	1	9	R236	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 135
+136	Dihydropyrimidinase-related protein 2 (DPYSL2)	1	32	R268	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 136
+137	DNA damage-binding protein 1 (DDB1)	1	47	R1138	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 137
+138	DNA topoisomerase 2-alpha (TOP2A)	1	66	R804	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 138
+139	Electron transfer flavoprotein subunit α, mitochondrial (ETFA)	1	11	R169	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 139
+140	Elongin B (ELOB)	1	7	R24	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 140
+141	γ-Enolase (ENO2)	1	20	R32	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 141
+142	Eukaryotic translation initiation factor 3 subunit F	1	12	R108	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 142
+143	Fascin (FSCN1)	1	32	R208	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 143
+144	Filamin-B (FLNB)	1	81	R2578	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 144
+145	Filamin-C (FLNC)	1	110	R2293	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 145
+146	Fructose-bisphosphate aldolase A (ALDOA)	1	15	R43	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 146
+147	Fumarate hydratase, mitochondrial (FH)	1	19	R101	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 147
+148	Galectin-1 (LGALS1)	1	5	R21	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 148
+149	Glucose-6-phosphate dehydrogenase (G6PDH)	1	32	R458	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 149
+150	Glutamine--tRNA synthetase (QARS)	1	50	R576	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 150
+151	Glutathione S-transferase omega 1 (GSTO1)	1	9	R48	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 151
+152	Glycine-tRNA ligase (GARS)	1	43	R602	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 152
+153	Heat shock protein beta-1 (HSPB1)	1	16	R188	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 153
+154	Heterogeneous nuclear ribonucleoprotein A/B (HNRNPAB)	1	13	R195	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 154
+155	Heterogeneous nuclear ribonucleoproteins A2/B1 (HNRNPA2B1)	1	25	R153	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 155
+156	Heterogeneous nuclear ribonucleoprotein K (HNRPK)	1	36	R69	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 156
+157	Heterogeneous nuclear ribonucleoprotein Q (SYNCRIP)	1	45	R343	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 157
+158	Heterogeneous nuclear ribonucleoprotein R (HNRPR)	1	47	R308	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 158
+159	Heat shock 70 kDa protein 4 (HSPA4)	1	29	R234	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 159
+160	Insulin-like growth factor 2 mRNA-binding protein 2 (IF2B2)	1	29	R576	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 160
+161	Interleukin enhancer-binding factor 2 (ILF2)	1	23	R60	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 161
+162	Interleukin enhancer-binding factor 3 (ILF3)	1	38	R264	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 162
+163	Leucine-tRNA ligase, cytoplasmic (LARS)	1	49	R785	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 163
+164	Lysine-tRNA ligase (KARS)	1	28	R314	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 164
+165	Malate dehydrogenase, mitochondrial (MDH2)	1	10	R52	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 165
+166	S-Methyl-5'-thioadenosine phosphorylase (MTAP)	1	19	R166	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 166
+167	Microtubule-associated protein 4, similar (B4DM10_HUMAN)	1	10	R583	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 167
+168	Multifunctional protein ADE2 (PAICS)	1	16	R255	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 168
+169	Myosin-9 (MYH9)	1	122	R358	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 169
+170	Neutral alpha-glucosidase AB (GANAB)	1	66	R944	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 170
+171	Nicotinamide phosphoribosyltransferase (NAMPT)	1	14	R196	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 171
+172	Nicotinamide N-methyltransferase (NNMT)	1	9	R30	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 172
+173	Nucleosome assembly protein 1-like 1 (NAPIL1)	1	13	R104	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p16 row 173
+174	Nucleosome assembly protein 1-like 4 (NAPIL4)	1	14	R93	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 174
+175	Nucleoside diphosphate kinase (NME1-NME2)	1	16	R113	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 175
+176	Nuclear ubiquitous casein and cyclin-dependent kinase substrate 1	1	14	R28	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 176
+177	Peptidyl-prolyl cis-trans isomerase A (PPIA)	1	6	R37	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 177
+178	Phosphatase 2A Inhibitor (I2PP2A)	1	10	R136	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 178
+179	6-Phosphogluconate dehydrogenase, decarboxylating (PGD)	1	20	R382	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 179
+180	Phosphoglycerate mutase 1 (PGAM1)	1	17	R90	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 180
+181	Glycogen phosphorylase (PYGB)	1	53	R640	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 181
+182	Phosphoserine aminotransferase (PSAT1)	1	11	R45	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 182
+183	Plastin-3 (PLST)	1	25	R599	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 183
+184	Profilin-1 (PROF1)	1	5	R56	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 184
+185	Prostaglandin reductase 1 (PTGR1)	1	8	R56	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 185
+186	26S protease regulatory subunit 4 (PSMC1)	1	21	R249	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 186
+187	Proteasome subunit A2 (PSMA2)	1	10	R220	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 187
+188	Proteasome subunit A5 (PSMA5)	1	7	R53	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 188
+189	Proteasome subunit B2 (PSMB2)	1	12	R70	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 189
+190	Proteasome subunit B3 (PSMB3)	1	12	R27	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 190
+191	Proteasome subunit B4 (PSMB4)	1	18	R89	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 191
+192	Prothymosin alpha protein (PTMA)	1	2	R89	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 192
+193	Purine nucleoside phosphorylase (PNPH)	1	16	R101	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 193
+194	Isoleucine-tRNA ligase, cytoplasmic (IARS)	1	57	R624	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 194
+195	Ras-related protein Rab 1A (RAB1A)	1	7	R51	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 195
+196	Ras-related protein Rab 1B (RAB1B)	1	8	R48	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 196
+197	Receptor of activated protein C kinase 1 (RACK1)	1	13	R47	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 197
+198	Rho GDP-dissociation inhibitor 1 (ARHGD1A)	1	9	R49	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 198
+199	Serine/threonine-protein phosphatase PP1-alpha catalytic subunit (PPP1CA)	1	18	R43	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 199
+200	Serine/threonine-protein phosphatase PP1-beta catalytic subunit (PPP1CB)	1	21	R42	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 200
+201	Serine-tRNA ligase, cytoplasmic (SARS)	1	32	R107	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 201
+202	Sialic acid synthetase (NANS)	1	13	R271	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 202
+203	Spectrin beta non-erythrocytic 1 (SPTBN1)	1	152	R675	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 203
+204	Succinyl-CoA:3-ketoacid coenzyme A transferase 1, mitochondrial (OXCT1)	1	23	R104	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 204
+205	T-complex protein 1 subunit zeta (CCT6A)	1	25	R28	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 205
+206	T-complex protein 1 subunit alpha (TCP1)	1	25	R526	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 206
+207	T-complex protein 1 subunit epsilon (TPCE)	1	25	R49	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 207
+208	T-complex protein 1 subunit gamma (TPCG)	1	35	R518	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 208
+209	TIP41-like protein (TIPRL)	1	13	R200	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 209
+210	Transaldolase (TALDO)	1	14	R295	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 210
+211	Transforming protein RhoA (RHOA)	1	12	R168	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 211
+212	Tropomyosin 1alpha (TPM1)	1	17	R133	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 212
+213	Tubulin beta-4B chain (TUBB4B)	1	21	R251	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 213
+214	Tubulin beta-7 chain (B4DMJ5_HUMAN)	1	10	R121	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 214
+215	Ubiquitin carboxyl-terminal hydrolase (USP14)	1	16	R267	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 215
+216	Ubiquitin-like modifier-activating enzyme 1 (UBA1)	1	50	R557	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 216
+217	UDP-N-acetylhexosamine pyrophosphorylase (UAP1)	1	19	R399	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 217
+218	UTP-glucose-1-phosphate uridylyltransferase 2 (UGP2)	1	21	R301	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 218
+219	Vinculin (VINC)	1	67	R1107	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p17 row 219
+220	X-ray repair cross-complementing protein 5 (XRCC5)	1	26	R141	00-data-raw/Irshad et al. - 2019/41598_2019_44358_MOESM1_ESM.pdf	Table S3	p18 row 220

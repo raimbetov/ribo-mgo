@@ -1,0 +1,5 @@
+beta-actin	ACTB
+gamma-actin	ACTG1
+Filamin-A	FLNA
+Glutamine-rich protein 1	QRICH1
+U6 snRNA-associated Sm-like protein LSm3	LSM3

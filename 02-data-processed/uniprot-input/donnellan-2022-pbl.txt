@@ -1,0 +1,57 @@
+P62258	14-3-3 protein epsilon
+P68133	Actin, alpha skeletal muscle
+A0A2R8Y793	Actin, cytoplasmic 1 (Fragment)
+P53999	Activated RNA polymerase II transcriptional coactivator p15
+P61163	Alpha-centractin
+E9PLK3	Aminopeptidase
+Q9Y679	Ancient ubiquitous protein 1
+P80723	Brain acid soluble protein 1
+P16152	Carbonyl reductase [NADPH] 1
+Q9BXL7	Caspase recruitment domain-containing protein 11
+Q5SZE1	Ceramide synthase 2 (Fragment)
+E7EW49	CLIP-associating protein 2
+O60826	Coiled-coil domain-containing protein 22
+A0A590UK19	Coiled-coil domain-containing protein 30
+J3KNI1	Conserved oligomeric Golgi complex subunit 4
+Q13363	C-terminal-binding protein 1
+A0A1B0GUM4	Cyclin-dependent kinase-like 5
+Q9H7D0	Dedicator of cytokinesis protein 5
+O76062	Delta(14)-sterol reductase TM7SF2
+I3L0R8	Derlin (Fragment)
+P78527	DNA-dependent protein kinase catalytic subunit
+P50570	Dynamin-2
+A8MUM1	EARP and GARP complex-interacting protein 1
+P51114	Fragile X mental retardation syndrome-related protein 1
+P04075	Fructose-bisphosphate aldolase A
+P09972	Fructose-bisphosphate aldolase C
+Q02539	Histone H1.1
+Q8WZA9	Immunity-related GTPase family Q protein
+P01768	Immunoglobulin heavy variable 3-30
+Q14653	Interferon regulatory factor 3
+Q14766	Isoform 3 of Latent-transforming growth factor beta-binding protein 1
+Q93084	Isoform SERCA3A of Sarcoplasmic/endoplasmic reticulum calcium ATPase 3
+Q9NQT8	Kinesin-like protein KIF13B
+Q14766	Latent-transforming growth factor beta-binding protein 1
+Q13614	Myotubularin-related protein 2
+Q09666	Neuroblast differentiation-associated protein AHNAK
+P59665	Neutrophil defensin 1
+P05204	Non-histone chromosomal protein HMG-17
+Q96KG9	N-terminal kinase-like protein
+A8CG34	Nuclear envelope pore membrane protein POM 121C
+P23284	Peptidyl-prolyl cis-trans isomerase B
+P0CG39	POTE ankyrin domain family member J
+J3KPF0	Probable E3 ubiquitin-protein ligase HECTD4
+Q99623	Prohibitin-2
+D6RDA2	Protein DEK (Fragment)
+P00352	Retinal dehydrogenase 1
+B9ZVT1	RNA-binding protein 12B
+Q9NWH9	SAFB-like transcription modulator
+P62136	Serine/threonine-protein phosphatase PP1-alpha catalytic subunit
+P62140	Serine/threonine-protein phosphatase PP1-beta catalytic subunit
+P36873	Serine/threonine-protein phosphatase PP1-gamma catalytic subunit
+P10768	S-formylglutathione hydrolase
+Q96SB8	Structural maintenance of chromosomes protein 6
+Q6PGP7	Tetratricopeptide repeat protein 37
+P62995	Transformer-2 protein homolog beta
+B7Z596	Tropomyosin alpha-1 chain
+Q8WU90	Zinc finger CCCH domain-containing protein 15

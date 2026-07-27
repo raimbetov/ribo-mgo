@@ -1,0 +1,147 @@
+MEGF11	Multiple epidermal growth factor-like domains protein 11
+TSTA3	GDP-L-fucose synthase
+NLRP2	NACHT, LRR and PYD domains-containing protein 2
+TRIM52	Tripartite motif-containing protein 52
+CHMP2A	Charged multivesicular body protein 2a
+GPR119	Glucose-dependent insulinotropic receptor
+KRT9	Keratin, type I cytoskeletal 9
+ABHD12B	Alpha/Beta Hydrolase Domain-Containing Protein 12B
+CACNA1H	Voltage-dependent T-type calcium channel subunit alpha-1H
+SV2B	Synaptic vesicle glycoprotein 2B
+THRA	Thyroid hormone receptor alpha
+KIAA0355	Uncharacterized protein KIAA0355
+FAAP20	Fanconi anemia core complex-associated protein 20
+REXO2	Oligoribonuclease, mitochondrial
+CIITA	MHC class II transactivator
+MZT2A	Mitotic-spindle organizing protein 2A
+PTPRN2	Receptor-type tyrosine-protein phosphatase N2
+SLC25A37	Mitoferrin-1
+TUBGCP6	Gamma-tubulin complex component 6
+CLN5	Ceroid-lipofuscinosis neuronal protein 5
+MACF1	Microtubule-actin cross-linking factor 1, isoforms 1/2/3/5
+COL27A1	Collagen alpha-1(XXVII) chain
+PLCB1	Phosphoinositide phospholipase C
+C19orf68	Uncharacterized protein C19orf68
+SEMA4B	Semaphorin-4B
+CABIN1	Calcineurin-binding protein cabin-1
+SLC6A9	Fanconi Anemia Core Complex Associated Protein 20
+MYEF2	Myelin expression factor 2
+MUC20	Mucin-20
+SAMD11	Sterile alpha motif domain-containing protein 11
+CEP250	Centrosome-associated protein CEP250
+WDR33	pre-mRNA 3' end processing protein WDR33
+PPP4R1L	Putative serine/threonine-protein phosphatase 4 regulatory subunit 1-like
+SNTG2	Gamma-2-syntrophin
+DAP3	28S ribosomal protein S29, mitochondrial
+WNK3	Serine/threonine-protein kinase WNK3
+EDC3	Enhancer of mRNA-decapping protein 3
+FAM27E3	Family With Sequence Similarity 27 Member E3
+SMG6	Telomerase-binding protein EST1A
+POM121C	Nuclear envelope pore membrane protein POM 121C
+NASP	Nuclear autoantigenic sperm protein
+HNRNPK	Heterogeneous nuclear ribonucleoprotein K
+FUS	RNA-binding protein FUS
+ZCCHC2	Zinc finger CCHC domain-containing protein 2
+DHX15	Pre-mRNA-splicing factor ATP-dependent RNA helicase
+TRIM46	Tripartite motif-containing protein 46
+CSNK2A2	Casein kinase II subunit alpha'
+HNRNPM	Heterogeneous nuclear ribonucleoprotein M
+EWSR1	RNA-binding protein EWS
+KRI1	Protein KRI1 homolog
+LDHA	L-lactate dehydrogenase A chain
+ESPNL	Espin-like protein
+MSH6	DNA mismatch repair protein Msh6
+ILF2	Interleukin enhancer-binding factor 2
+PRDX1	Peroxiredoxin-1
+MAK16	Protein MAK16 homolog OS
+HNRNPU	Heterogeneous nuclear ribonucleoprotein U
+RECQL5	ATP-dependent DNA helicase
+EEF2	Elongation factor 2
+HIST1H2BN	Histone H2B
+BAZ1B	Tyrosine-protein kinase BAZ1B
+ATXN10	Ataxin-10
+PHLPP1	PH domain leucine-rich repeat-containing protein phosphatase 1
+SUPT6H	Transcription elongation factor SPT6
+KCTD9	BTB/POZ domain-containing protein KCTD9
+CPXM2	Inactive carboxypeptidase-like protein X2
+USP5	Ubiquitin carboxyl-terminal hydrolase 5
+ZFR	Zinc finger RNA-binding protein
+NPIPA2	Nuclear pore complex-interacting protein family member A2
+MYO15A	Unconventional myosin-XV
+AGBL4	Cytosolic carboxypeptidase 6
+HAGH	Hydroxyacylglutathione hydrolase, mitochondrial
+ZNF513	Zinc finger protein 513
+ZNF345	Zinc finger protein 345
+SRP54	Signal recognition particle 54 kDa protein
+UBA52	Ubiquitin-60S ribosomal protein L40
+MYD88	Myeloid differentiation primary response protein MyD88
+LOC105372343	Uncharacterized protein
+RPUSD3	RNA pseudouridylate synthase domain-containing protein 3
+DOCK2	Dedicator of cytokinesis protein 2
+TRIT1	tRNA dimethylallyltransferase, mitochondrial
+SPEN	Msx2-interacting protein
+DSP	Desmoplakin
+ANKRD1	Ankyrin repeat domain-containing protein 1
+POLR1A	DNA-directed RNA polymerase subunit
+MYO18A	Unconventional myosin-XVIIIa
+AKAP6	A-kinase anchor protein 6
+PARD3B	Partitioning defective 3 homolog B
+IFT172	Intraflagellar transport protein 172 homolog
+TOP2B	DNA topoisomerase 2
+KLHL33	Kelch-like protein 33
+ANKS3	Ankyrin repeat and SAM domain-containing protein 3
+ACKR2	Atypical chemokine receptor 2
+CPE	Carboxypeptidase E
+GPD2	Glycerol-3-phosphate dehydrogenase, mitochondrial
+CHD3	Chromodomain-helicase-DNA-binding protein 3
+SLC39A11	Zinc transporter ZIP11
+TEX33	Testis-expressed protein 33
+MBIP	MAP3K12-binding inhibitory protein 1
+PRX	Periaxin
+MAP7	Ensconsin
+VSTM2A	V-set and transmembrane domain-containing protein 2A
+MRPS21	28S ribosomal protein S21, mitochondrial
+TRIM21	E3 ubiquitin-protein ligase TRIM21
+KIAA0556	Protein KIAA0556
+CROCC	Rootletin
+LIPE	Hormone-sensitive lipase
+TAF3	Transcription initiation factor TFIID subunit 3
+FBXW8	F-box/WD repeat-containing protein 8
+OR4A15	Olfactory receptor 4A15
+GRIN2D	Glutamate receptor ionotropic, NMDA 2D
+GRM6	Metabotropic glutamate receptor 6
+TOPAZ1	Testis- and ovary-specific PAZ domain-containing protein 1
+ACADVL	Very long-chain-specific acyl-CoA dehydrogenase, mitochondrial
+PHC3	Polyhomeotic-like protein 3
+FAM71E1	Protein FAM71E1
+ENO2	Gamma-enolase
+STAR	Steroidogenic acute regulatory protein, mitochondrial
+CCDC74A	Coiled-coil domain-containing protein 74A
+DOCK8	Dedicator of cytokinesis protein 8
+SYCP2	Synaptonemal complex protein 2
+TIRAP	Toll/interleukin-1 receptor domain-containing adapter protein
+ACIN1	Apoptotic chromatin condensation inducer 1
+DHX15	DEAH-box helicase 15
+FUS	RNA-binding protein FUS
+HNRNPK	Heterogeneous nuclear ribonucleoprotein K
+HNRNPM	Heterogeneous nuclear ribonucleoprotein M
+HNRNPU	Heterogeneous nuclear ribonucleoprotein U
+HSPA1B	Heat shock protein family A member 1B
+HSPA1L	Heat shock protein family A member like
+HSPA2	Heat shock protein family A member 2
+HSPA8	Heat shock protein family A member 8
+RBM22	Heat shock protein family A member 1B
+SNRPD2	Small nuclear ribonucleoprotein Sm D2
+THOC1	THO complex 1
+TMEM231	Transmembrane protein 231
+TRA2A	Transformer 2 alpha homolog
+U2AF1L5	Splicing factor U2AF 35 kDa subunit-like protein
+Carbohydrate-response element-binding protein (Mondo A)
+Protachykinin-1
+Mitochondrial 3-ketoacyl-CoA thiolase
+Diphthamide biosynthesis protein-1
+Mitochondrial enoyl-CoA hydratase
+ABHD14A
+Scaffold attachment factor
+Metastasis suppressor protein-1
+B-cell CLL/lymphoma 9-like protein

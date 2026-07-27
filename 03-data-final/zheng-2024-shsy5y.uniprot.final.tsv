@@ -1,0 +1,78 @@
+From	Entry	Entry Name	Protein names	Gene Names	Organism	Source	Notes
+"P08670	Vimentin"	P08670	VIME_HUMAN	Vimentin	VIM	Homo sapiens (Human)	auto	
+"P68371	Tubulin beta-4B chain"	P68371	TBB4B_HUMAN	Tubulin beta-4B chain (Tubulin beta-2 chain) (Tubulin beta-2C chain)	TUBB4B TUBB2C	Homo sapiens (Human)	auto	
+"Q5QNW6	Histone H2B type 2-F"	Q5QNW6	H2B2F_HUMAN	Histone H2B type 2-F (H2B-clustered histone 18)	H2BC18 HIST2H2BF	Homo sapiens (Human)	auto	
+"P26641	Elongation factor 1-gamma"	P26641	EF1G_HUMAN	Elongation factor 1-gamma (EF-1-gamma) (eEF-1B gamma)	EEF1G EF1G	Homo sapiens (Human)	auto	
+"P60660	Myosin light polypeptide 6"	P60660	MYL6_HUMAN	Myosin light polypeptide 6 (17 kDa myosin light chain (LC17)) (Myosin light chain 3 (MLC-3)) (Myosin light chain alkali 3 (Myosin light chain A3)) (Smooth muscle and nonmuscle myosin light chain alkali 6)	MYL6	Homo sapiens (Human)	auto	
+"P63261	Actin, cytoplasmic 2, N-terminally processed"	P63261	ACTG_HUMAN	Actin, cytoplasmic 2 (EC 3.6.4.-) (Gamma-actin)	ACTG1 ACTG	Homo sapiens (Human)	auto	
+"P22732	Solute carrier family 2, facilitated glucose transporter member 5"	P22732	GTR5_HUMAN	Solute carrier family 2, facilitated glucose transporter member 5 (Fructose transporter) (Glucose transporter type 5, small intestine (GLUT-5))	SLC2A5 GLUT5	Homo sapiens (Human)	auto	
+"Q9Y2V2	Calcium-regulated heat-stable protein 1"	Q9Y2V2	CHSP1_HUMAN	Calcium-regulated heat-stable protein 1 (Calcium-regulated heat-stable protein of 24 kDa (CRHSP-24))	CARHSP1	Homo sapiens (Human)	auto	
+"Q08378	Golgin subfamily A member 3"	Q08378	GOGA3_HUMAN	Golgin subfamily A member 3 (Golgi complex-associated protein of 170 kDa (GCP170)) (Golgin-160)	GOLGA3	Homo sapiens (Human)	auto	
+"Q6NSI1	Putative ankyrin repeat domain-containing protein 26-like protein"	Q6NSI1	AR26L_HUMAN	Putative ankyrin repeat domain-containing protein 26-like protein	ANKRD26P1	Homo sapiens (Human)	auto	
+"Q9Y2F9	BTB/POZ domain-containing protein 3"	Q9Y2F9	BTBD3_HUMAN	BTB/POZ domain-containing protein 3	BTBD3 KIAA0952	Homo sapiens (Human)	auto	
+"Q9NXL9	DNA helicase MCM9"	Q9NXL9	MCM9_HUMAN	DNA helicase MCM9 (hMCM9) (EC 5.6.2.4) (DNA 3'-5' helicase MCM9) (Mini-chromosome maintenance deficient domain-containing protein 1) (Minichromosome maintenance 9)	MCM9 C6orf61 MCMDC1	Homo sapiens (Human)	auto	
+"Q8IVE3	Pleckstrin homology domain-containing family H member 2"	Q8IVE3	PKHH2_HUMAN	Pleckstrin homology domain-containing family H member 2	PLEKHH2 KIAA2028	Homo sapiens (Human)	auto	
+"Q8NCL9	Protein APCDD1-like"	Q8NCL9	APCDL_HUMAN	Protein APCDD1-like (Adenomatosis polyposis coli down-regulated 1 protein-like)	APCDD1L	Homo sapiens (Human)	auto	
+"Q86Y07	Serine/threonine-protein kinase VRK2"	Q86Y07	VRK2_HUMAN	Serine/threonine-protein kinase VRK2 (EC 2.7.11.1) (Vaccinia-related kinase 2)	VRK2	Homo sapiens (Human)	auto	
+"P52298	Nuclear cap-binding protein subunit 2"	P52298	NCBP2_HUMAN	Nuclear cap-binding protein subunit 2 (20 kDa nuclear cap-binding protein) (Cell proliferation-inducing gene 55 protein) (NCBP 20 kDa subunit (CBP20)) (NCBP-interacting protein 1 (NIP1))	NCBP2 CBP20	Homo sapiens (Human)	auto	
+"Q9BXF9	Tektin-3"	Q9BXF9	TEKT3_HUMAN	Tektin-3	TEKT3	Homo sapiens (Human)	auto	
+"P60709	Actin, cytoplasmic 1, N-terminally processed"	P60709	ACTB_HUMAN	Actin, cytoplasmic 1 (EC 3.6.4.-) (Beta-actin)	ACTB	Homo sapiens (Human)	auto	
+"A5A3E0	POTE ankyrin domain family member F"	A5A3E0	POTEF_HUMAN	POTE ankyrin domain family member F (ANKRD26-like family C member 1B) (Chimeric POTE-actin protein)	POTEF A26C1B	Homo sapiens (Human)	auto	
+"P48643	T-complex protein 1 subunit epsilon"	P48643	TCPE_HUMAN	T-complex protein 1 subunit epsilon (TCP-1-epsilon) (EC 3.6.1.-) (CCT-epsilon) (Chaperonin containing T-complex polypeptide 1 subunit 5)	CCT5 CCTE KIAA0098	Homo sapiens (Human)	auto	
+"P61550	Endogenous retrovirus group S71 member 1 Env polyprotein"	P61550	ENVT1_HUMAN	Endogenous retrovirus group S71 member 1 Env polyprotein (Envelope polyprotein) (HERV-T Env protein) (HERV-T_19q13.11 provirus ancestral Env polyprotein)	ERVS71-1	Homo sapiens (Human)	auto	
+"P52790	Hexokinase-3"	P52790	HXK3_HUMAN	Hexokinase-3 (EC 2.7.1.1) (Hexokinase type III (HK III)) (Hexokinase-C)	HK3	Homo sapiens (Human)	auto	
+"P61160	Actin-related protein 2"	P61160	ARP2_HUMAN	Actin-related protein 2 (Actin-like protein 2)	ACTR2 ARP2	Homo sapiens (Human)	auto	
+"P52179	Myomesin-1"	P52179	MYOM1_HUMAN	Myomesin-1 (190 kDa connectin-associated protein) (190 kDa titin-associated protein) (Myomesin family member 1)	MYOM1	Homo sapiens (Human)	auto	
+"P09874	Poly [ADP-ribose] polymerase 1"	P09874	PARP1_HUMAN	Poly [ADP-ribose] polymerase 1 (PARP-1) (EC 2.4.2.30) (ADP-ribosyltransferase diphtheria toxin-like 1 (ARTD1)) (DNA ADP-ribosyltransferase PARP1 (EC 2.4.2.-)) (NAD(+) ADP-ribosyltransferase 1 (ADPRT 1)) (Poly[ADP-ribose] synthase 1) (Protein poly-ADP-ribosyltransferase PARP1 (EC 2.4.2.-))	PARP1 ADPRT PPOL	Homo sapiens (Human)	auto	
+"O75182	Paired amphipathic helix protein Sin3b"	O75182	SIN3B_HUMAN	Paired amphipathic helix protein Sin3b (Histone deacetylase complex subunit Sin3b) (Transcriptional corepressor Sin3b)	SIN3B KIAA0700	Homo sapiens (Human)	auto	
+"P43354	Nuclear receptor subfamily 4 group A member 2"	P43354	NR4A2_HUMAN	Nuclear receptor subfamily 4 group A member 2 (Immediate-early response protein NOT) (Orphan nuclear receptor NURR1) (Transcriptionally-inducible nuclear receptor)	NR4A2 NOT NURR1 TINUR	Homo sapiens (Human)	auto	
+"Q9UJW0	Dynactin subunit 4"	Q9UJW0	DCTN4_HUMAN	Dynactin subunit 4 (Dyn4) (Dynactin subunit p62)	DCTN4	Homo sapiens (Human)	auto	
+"Q9H4B7	Tubulin beta-1 chain"	Q9H4B7	TBB1_HUMAN	Tubulin beta-1 chain	TUBB1	Homo sapiens (Human)	auto	
+"Q9H3R1	Bifunctional heparan sulfate N-deacetylase/N- sulfotransferase 4"	Q9H3R1	NDST4_HUMAN	N-heparan sulfate sulfotransferase 4 (NDST-4) (EC 2.8.2.8)	NDST4 HSST4	Homo sapiens (Human)	auto	
+"Q2VY69	Zinc finger protein 284"	Q2VY69	ZN284_HUMAN	Zinc finger protein 284	ZNF284 ZNF284L	Homo sapiens (Human)	auto	
+"O75541	Zinc finger protein 821"	O75541	ZN821_HUMAN	Zinc finger protein 821	ZNF821	Homo sapiens (Human)	auto	
+"Q96QB1	Rho GTPase-activating protein 7"	Q96QB1	RHG07_HUMAN	Rho GTPase-activating protein 7 (Deleted in liver cancer 1 protein (DLC-1)) (HP protein) (Rho-type GTPase-activating protein 7) (START domain-containing protein 12 (StARD12)) (StAR-related lipid transfer protein 12)	DLC1 ARHGAP7 KIAA1723 STARD12	Homo sapiens (Human)	auto	
+"Q9NWS8	Required for meiotic nuclear division protein 1 homolog"	Q9NWS8	RMND1_HUMAN	Required for meiotic nuclear division protein 1 homolog	RMND1 C6orf96	Homo sapiens (Human)	auto	
+"Q8N8I0	Sterile alpha motif domain containing 12."	Q8N8I0	SAM12_HUMAN	Sterile alpha motif domain-containing protein 12 (SAM domain-containing protein 12)	SAMD12	Homo sapiens (Human)	auto	
+"P51553	Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial"	P51553	IDH3G_HUMAN	Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial (Isocitric dehydrogenase subunit gamma) (NAD(+)-specific ICDH subunit gamma)	IDH3G	Homo sapiens (Human)	auto	
+"P52789	Hexokinase-2"	P52789	HXK2_HUMAN	Hexokinase-2 (EC 2.7.1.1) (Hexokinase type II (HK II)) (Hexokinase-B) (Muscle form hexokinase)	HK2	Homo sapiens (Human)	auto	
+"Q9H069	Dynein regulatory complex subunit 3"	Q9H069	DRC3_HUMAN	Dynein regulatory complex subunit 3 (Leucine-rich repeat-containing protein 48)	DRC3 LRRC48	Homo sapiens (Human)	auto	
+"P56524	Histone deacetylase 4"	P56524	HDAC4_HUMAN	Histone deacetylase 4 (HD4) (EC 3.5.1.98)	HDAC4 KIAA0288	Homo sapiens (Human)	auto	
+"Q96AA8	Janus kinase and microtubule interacting protein 2"	Q96AA8	JKIP2_HUMAN	Janus kinase and microtubule-interacting protein 2 (CTCL tumor antigen HD-CL-04) (Neuroendocrine long coiled-coil protein 1)	JAKMIP2 JAMIP2 KIAA0555 NECC1	Homo sapiens (Human)	auto	
+"P13639	Elongation factor 2"	P13639	EF2_HUMAN	Elongation factor 2 (EF-2) (EC 3.6.5.-)	EEF2 EF2	Homo sapiens (Human)	auto	
+"P60510	Serine/threonine-protein phosphatase 4 catalytic subunit"	P60510	PP4C_HUMAN	Serine/threonine-protein phosphatase 4 catalytic subunit (PP4C) (Pp4) (EC 3.1.3.16) (Protein phosphatase X (PP-X))	PPP4C PPP4 PPX	Homo sapiens (Human)	auto	
+"Q9NWB1	RNA binding protein fox-1 homolog 1"	Q9NWB1	RFOX1_HUMAN	RNA binding protein fox-1 homolog 1 (Ataxin-2-binding protein 1) (Fox-1 homolog A) (Hexaribonucleotide-binding protein 1)	RBFOX1 A2BP A2BP1 FOX1 HRNBP1	Homo sapiens (Human)	auto	
+"P17038	Zinc finger protein 43"	P17038	ZNF43_HUMAN	Zinc finger protein 43 (Zinc finger protein 39) (Zinc finger protein HTF6) (Zinc finger protein KOX27)	ZNF43 KOX27 ZNF39 ZNF39L1	Homo sapiens (Human)	auto	
+"Q5T7B8	Kinesin-like protein KIF24"	Q5T7B8	KIF24_HUMAN	Kinesin-like protein KIF24	KIF24 C9orf48	Homo sapiens (Human)	auto	
+"A5PLL1	Ankyrin repeat domain 34B"	A5PLL1	AN34B_HUMAN	Ankyrin repeat domain-containing protein 34B	ANKRD34B	Homo sapiens (Human)	auto	
+"Q9H0K1	Serine/threonine-protein kinase SIK2"	Q9H0K1	SIK2_HUMAN	Serine/threonine-protein kinase SIK2 (EC 2.7.11.1) (Qin-induced kinase) (Salt-inducible kinase 2 (SIK-2)) (Serine/threonine-protein kinase SNF1-like kinase 2)	SIK2 KIAA0781 QIK SNF1LK2	Homo sapiens (Human)	auto	
+"Q8IZH2	5'-3' exoribonuclease 1"	Q8IZH2	XRN1_HUMAN	5'-3' exoribonuclease 1 (EC 3.1.13.-) (Strand-exchange protein 1 homolog)	XRN1 SEP1	Homo sapiens (Human)	auto	
+"Q14683	Structural maintenance of chromosomes protein 1A"	Q14683	SMC1A_HUMAN	Structural maintenance of chromosomes protein 1A (SMC protein 1A) (SMC-1-alpha) (SMC-1A) (Sb1.8)	SMC1A DXS423E KIAA0178 SB1.8 SMC1 SMC1L1	Homo sapiens (Human)	auto	
+"Q92576	PHD finger protein 3."	Q92576	PHF3_HUMAN	PHD finger protein 3	PHF3 KIAA0244	Homo sapiens (Human)	auto	
+"Q4J6C6	Prolyl endopeptidase-like"	Q4J6C6	PPCEL_HUMAN	Prolyl endopeptidase-like (EC 3.4.21.-) (Prolylendopeptidase-like)	PREPL KIAA0436	Homo sapiens (Human)	auto	
+"P16152	Carbonyl reductase [NADPH] 1"	P16152	CBR1_HUMAN	Carbonyl reductase [NADPH] 1 (EC 1.1.1.184) (15-hydroxyprostaglandin dehydrogenase [NADP(+)] (EC 1.1.1.196) (EC 1.1.1.197)) (20-beta-hydroxysteroid dehydrogenase) (Alcohol dehydrogenase [NAD(P)+] CBR1 (EC 1.1.1.71)) (NADPH-dependent carbonyl reductase 1) (Prostaglandin 9-ketoreductase (PG-9-KR)) (Prostaglandin-E(2) 9-reductase (EC 1.1.1.189)) (Short chain dehydrogenase/reductase family 21C member 1)	CBR1 CBR CRN SDR21C1	Homo sapiens (Human)	auto	
+"Q00872	Myosin-binding protein C, slow-type"	Q00872	MYPC1_HUMAN	Myosin-binding protein C, slow-type (Slow MyBP-C) (C-protein, skeletal muscle slow isoform)	MYBPC1 MYBPCS	Homo sapiens (Human)	auto	
+"Q86VV8	Rotatin"	Q86VV8	RTTN_HUMAN	Rotatin	RTTN	Homo sapiens (Human)	auto	
+"P52566	Rho GDP-dissociation inhibitor 2"	P52566	GDIR2_HUMAN	Rho GDP-dissociation inhibitor 2 (Rho GDI 2) (Ly-GDI) (Rho-GDI beta)	ARHGDIB GDIA2 GDID4 RAP1GN1	Homo sapiens (Human)	auto	
+"Q9HCD5	Nuclear receptor coactivator 5"	Q9HCD5	NCOA5_HUMAN	Nuclear receptor coactivator 5 (NCoA-5) (Coactivator independent of AF-2 (CIA))	NCOA5 KIAA1637	Homo sapiens (Human)	auto	
+"Q13751	Laminin subunit beta-3"	Q13751	LAMB3_HUMAN	Laminin subunit beta-3 (Epiligrin subunit beta) (Kalinin B1 chain) (Kalinin subunit beta) (Laminin B1k chain) (Laminin-5 subunit beta) (Nicein subunit beta)	LAMB3 LAMNB1	Homo sapiens (Human)	auto	
+"O94906	Pre-mRNA-processing factor 6"	O94906	PRP6_HUMAN	Pre-mRNA-processing factor 6 (Androgen receptor N-terminal domain-transactivating protein 1 (ANT-1)) (PRP6 homolog) (U5 snRNP-associated 102 kDa protein (U5-102 kDa protein))	PRPF6 C20orf14	Homo sapiens (Human)	auto	
+"P10827	Thyroid hormone receptor alpha"	P10827	THA_HUMAN	Thyroid hormone receptor alpha (Nuclear receptor subfamily 1 group A member 1) (V-erbA-related protein 7 (EAR-7)) (c-erbA-1) (c-erbA-alpha)	THRA EAR7 ERBA1 NR1A1 THRA1 THRA2	Homo sapiens (Human)	auto	
+"Q70UQ0	IKBKB interacting protein."	Q70UQ0	IKIP_HUMAN	Inhibitor of nuclear factor kappa-B kinase-interacting protein (I kappa-B kinase-interacting protein) (IKBKB-interacting protein) (IKK-interacting protein)	IKBIP IKIP	Homo sapiens (Human)	auto	
+"Q8IXZ2	Zinc finger CCCH domain-containing protein 3"	Q8IXZ2	ZC3H3_HUMAN	Zinc finger CCCH domain-containing protein 3 (Smad-interacting CPSF-like factor)	ZC3H3 KIAA0150 SMICL ZC3HDC3	Homo sapiens (Human)	auto	
+"Q9UGP8	Translocation protein SEC63 homolog"	Q9UGP8	SEC63_HUMAN	Translocation protein SEC63 homolog (DnaJ homolog subfamily C member 23)	SEC63 DNAJC23 SEC63L	Homo sapiens (Human)	auto	
+"P35557	Hexokinase-4"	P35557	HXK4_HUMAN	Hexokinase-4 (HK4) (EC 2.7.1.1) (Glucokinase) (Hexokinase type IV (HK IV)) (Hexokinase-D)	GCK	Homo sapiens (Human)	auto	
+"A8MPP1	Putative ATP-dependent RNA helicase DDX11-like protein 8"	A8MPP1	D11L8_HUMAN	Putative ATP-dependent DNA helicase DDX11-like protein 8 (EC 5.6.2.-) (DEAD/H box protein 11-like 8)	DDX11L8	Homo sapiens (Human)	auto	
+"Q9Y4X0	AMMECR nuclear protein 1."	Q9Y4X0	AMMR1_HUMAN	Nuclear protein AMMECR1 (AMME syndrome candidate gene 1 protein)	AMMECR1	Homo sapiens (Human)	auto	
+"P25874	Mitochondrial brown fat uncoupling protein 1"	P25874	UCP1_HUMAN	Mitochondrial brown fat uncoupling protein 1 (UCP 1) (Solute carrier family 25 member 7) (Thermogenin)	UCP1 SLC25A7 UCP	Homo sapiens (Human)	auto	
+"P07355	AMMECR nuclear protein 1."	P07355	ANXA2_HUMAN	Annexin A2 (Annexin II) (Annexin-2) (Calpactin I heavy chain) (Calpactin-1 heavy chain) (Chromobindin-8) (Lipocortin II) (Placental anticoagulant protein IV (PAP-IV)) (Protein I) (p36)	ANXA2 ANX2 ANX2L4 CAL1H LPC2D	Homo sapiens (Human)	auto	
+"A6NLP5	Tetratricopeptide repeat domain 36."	A6NLP5	TTC36_HUMAN	Tetratricopeptide repeat protein 36 (TPR repeat protein 36) (HSP70-binding protein 21)	TTC36 HBP21	Homo sapiens (Human)	auto	
+"O14827	Ras-specific guanine nucleotide-releasing factor 2"	O14827	RGRF2_HUMAN	Ras-specific guanine nucleotide-releasing factor 2 (Ras-GRF2) (Ras guanine nucleotide exchange factor 2)	RASGRF2 GRF2	Homo sapiens (Human)	auto	
+"Q8TED4	Glucose-6-phosphate exchanger SLC37A2"	Q8TED4	G6PT3_HUMAN	Glucose-6-phosphate exchanger SLC37A2 (Solute carrier family 37 member 2)	SLC37A2	Homo sapiens (Human)	auto	
+"O15397	Importin-8"	O15397	IPO8_HUMAN	Importin-8 (Imp8) (Ran-binding protein 8 (RanBP8))	IPO8 RANBP8	Homo sapiens (Human)	auto	
+"Q9H3R0	Lysine-specific demethylase 4C"	Q9H3R0	KDM4C_HUMAN	Lysine-specific demethylase 4C (EC 1.14.11.66) (Gene amplified in squamous cell carcinoma 1 protein (GASC-1 protein)) (JmjC domain-containing histone demethylation protein 3C) (Jumonji domain-containing protein 2C) ([histone H3]-trimethyl-L-lysine(9) demethylase 4C)	KDM4C GASC1 JHDM3C JMJD2C KIAA0780	Homo sapiens (Human)	auto	
+"Q8TB72	Pumilio homolog 2"	Q8TB72	PUM2_HUMAN	Pumilio homolog 2 (Pumilio-2)	PUM2 KIAA0235 PUMH2	Homo sapiens (Human)	auto	
+"Q8N3X1	Formin binding protein 4."	Q8N3X1	FNBP4_HUMAN	Formin-binding protein 4 (Formin-binding protein 30)	FNBP4 FBP30 KIAA1014	Homo sapiens (Human)	auto	
+"Q8N8K9	Uncharacterized protein KIAA1958"	Q8N8K9	K1958_HUMAN	Uncharacterized protein KIAA1958	KIAA1958	Homo sapiens (Human)	auto	
+"Q13938	Calcyphosin"	Q13938	CAYP1_HUMAN	Calcyphosin (Calcyphosine)	CAPS	Homo sapiens (Human)	auto	
+"O60304	Zinc finger protein 500"	O60304	ZN500_HUMAN	Zinc finger protein 500 (Zinc finger protein with KRAB and SCAN domains 18)	ZNF500 KIAA0557 ZKSCAN18	Homo sapiens (Human)	auto	

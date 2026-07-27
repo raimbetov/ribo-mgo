@@ -1,0 +1,148 @@
+Gene	Name of protein	Fold change	fraction	abundance_direction	source_file	source_table	source_row
+MEGF11	Multiple epidermal growth factor-like domains protein 11	14.0	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 1
+TSTA3	GDP-L-fucose synthase	5.7	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 2
+NLRP2	NACHT, LRR and PYD domains-containing protein 2	4.1	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 3
+TRIM52	Tripartite motif-containing protein 52	3.6	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 4
+CHMP2A	Charged multivesicular body protein 2a	3.5	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 5
+GPR119	Glucose-dependent insulinotropic receptor	3.4	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 6
+KRT9	Keratin, type I cytoskeletal 9	3.3	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 7
+ABHD12B	Alpha/Beta Hydrolase Domain-Containing Protein 12B	3.2	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 8
+CACNA1H	Voltage-dependent T-type calcium channel subunit alpha-1H	3.2	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 9
+SV2B	Synaptic vesicle glycoprotein 2B	3.2	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 10
+THRA	Thyroid hormone receptor alpha	2.7	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 11
+KIAA0355	Uncharacterized protein KIAA0355	2.6	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 12
+FAAP20	Fanconi anemia core complex-associated protein 20	2.6	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 13
+REXO2	Oligoribonuclease, mitochondrial	2.4	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 14
+CIITA	MHC class II transactivator	2.4	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 15
+MZT2A	Mitotic-spindle organizing protein 2A	2.3	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 16
+PTPRN2	Receptor-type tyrosine-protein phosphatase N2	2.1	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 17
+SLC25A37	Mitoferrin-1	2.1	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 18
+TUBGCP6	Gamma-tubulin complex component 6	2.0	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 19
+CLN5	Ceroid-lipofuscinosis neuronal protein 5	2.0	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 20
+MACF1	Microtubule-actin cross-linking factor 1, isoforms 1/2/3/5	2.0	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 21
+COL27A1	Collagen alpha-1(XXVII) chain	2.0	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 22
+PLCB1	Phosphoinositide phospholipase C	1.9	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 23
+C19orf68	Uncharacterized protein C19orf68	1.9	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 24
+SEMA4B	Semaphorin-4B	1.8	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 25
+CABIN1	Calcineurin-binding protein cabin-1	1.8	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 26
+SLC6A9	Fanconi Anemia Core Complex Associated Protein 20	1.7	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 27
+MYEF2	Myelin expression factor 2	1.7	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 28
+MUC20	Mucin-20	1.6	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 29
+SAMD11	Sterile alpha motif domain-containing protein 11	1.6	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 30
+CEP250	Centrosome-associated protein CEP250	1.6	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 31
+WDR33	pre-mRNA 3' end processing protein WDR33	1.6	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 32
+PPP4R1L	Putative serine/threonine-protein phosphatase 4 regulatory subunit 1-like	1.5	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 33
+SNTG2	Gamma-2-syntrophin	1.5	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 34
+DAP3	28S ribosomal protein S29, mitochondrial	1.5	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 35
+WNK3	Serine/threonine-protein kinase WNK3	1.4	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 36
+EDC3	Enhancer of mRNA-decapping protein 3	1.4	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 37
+FAM27E3	Family With Sequence Similarity 27 Member E3	1.3	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 38
+SMG6	Telomerase-binding protein EST1A	1.3	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 39
+POM121C	Nuclear envelope pore membrane protein POM 121C	1.2	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 40
+NASP	Nuclear autoantigenic sperm protein	1.2	cytoplasm	increased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S3	p27 row 41
+HNRNPK	Heterogeneous nuclear ribonucleoprotein K	0.91	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 1
+FUS	RNA-binding protein FUS	0.86	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 2
+ZCCHC2	Zinc finger CCHC domain-containing protein 2	0.84	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 3
+DHX15	Pre-mRNA-splicing factor ATP-dependent RNA helicase	0.82	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 4
+TRIM46	Tripartite motif-containing protein 46	0.81	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 5
+CSNK2A2	Casein kinase II subunit alpha'	0.81	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 6
+HNRNPM	Heterogeneous nuclear ribonucleoprotein M	0.81	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 7
+EWSR1	RNA-binding protein EWS	0.81	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 8
+KRI1	Protein KRI1 homolog	0.79	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 9
+LDHA	L-lactate dehydrogenase A chain	0.79	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 10
+ESPNL	Espin-like protein	0.78	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 11
+MSH6	DNA mismatch repair protein Msh6	0.78	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 12
+ILF2	Interleukin enhancer-binding factor 2	0.76	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 13
+PRDX1	Peroxiredoxin-1	0.76	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 14
+MAK16	Protein MAK16 homolog OS	0.76	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 15
+HNRNPU	Heterogeneous nuclear ribonucleoprotein U	0.75	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 16
+RECQL5	ATP-dependent DNA helicase	0.75	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 17
+EEF2	Elongation factor 2	0.73	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 18
+HIST1H2BN	Histone H2B	0.73	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 19
+BAZ1B	Tyrosine-protein kinase BAZ1B	0.71	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 20
+ATXN10	Ataxin-10	0.71	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 21
+PHLPP1	PH domain leucine-rich repeat-containing protein phosphatase 1	0.70	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 22
+SUPT6H	Transcription elongation factor SPT6	0.68	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 23
+KCTD9	BTB/POZ domain-containing protein KCTD9	0.67	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 24
+CPXM2	Inactive carboxypeptidase-like protein X2	0.67	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 25
+USP5	Ubiquitin carboxyl-terminal hydrolase 5	0.66	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 26
+ZFR	Zinc finger RNA-binding protein	0.66	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 27
+NPIPA2	Nuclear pore complex-interacting protein family member A2	0.64	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 28
+MYO15A	Unconventional myosin-XV	0.62	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 29
+AGBL4	Cytosolic carboxypeptidase 6	0.62	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 30
+HAGH	Hydroxyacylglutathione hydrolase, mitochondrial	0.62	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 31
+ZNF513	Zinc finger protein 513	0.62	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 32
+ZNF345	Zinc finger protein 345	0.61	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 33
+SRP54	Signal recognition particle 54 kDa protein	0.61	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 34
+UBA52	Ubiquitin-60S ribosomal protein L40	0.61	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 35
+MYD88	Myeloid differentiation primary response protein MyD88	0.61	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 36
+LOC105372343	Uncharacterized protein	0.61	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 37
+RPUSD3	RNA pseudouridylate synthase domain-containing protein 3	0.60	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 38
+DOCK2	Dedicator of cytokinesis protein 2	0.60	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 39
+TRIT1	tRNA dimethylallyltransferase, mitochondrial	0.58	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 40
+SPEN	Msx2-interacting protein	0.56	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 41
+DSP	Desmoplakin	0.55	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 42
+ANKRD1	Ankyrin repeat domain-containing protein 1	0.54	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 43
+POLR1A	DNA-directed RNA polymerase subunit	0.53	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 44
+MYO18A	Unconventional myosin-XVIIIa	0.53	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p28 row 45
+AKAP6	A-kinase anchor protein 6	0.52	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 46
+PARD3B	Partitioning defective 3 homolog B	0.51	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 47
+IFT172	Intraflagellar transport protein 172 homolog	0.51	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 48
+TOP2B	DNA topoisomerase 2	0.50	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 49
+KLHL33	Kelch-like protein 33	0.50	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 50
+ANKS3	Ankyrin repeat and SAM domain-containing protein 3	0.49	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 51
+ACKR2	Atypical chemokine receptor 2	0.47	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 52
+CPE	Carboxypeptidase E	0.46	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 53
+GPD2	Glycerol-3-phosphate dehydrogenase, mitochondrial	0.46	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 54
+CHD3	Chromodomain-helicase-DNA-binding protein 3	0.42	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 55
+SLC39A11	Zinc transporter ZIP11	0.39	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 56
+TEX33	Testis-expressed protein 33	0.39	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 57
+MBIP	MAP3K12-binding inhibitory protein 1	0.38	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 58
+PRX	Periaxin	0.38	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 59
+MAP7	Ensconsin	0.35	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 60
+VSTM2A	V-set and transmembrane domain-containing protein 2A	0.25	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 61
+MRPS21	28S ribosomal protein S21, mitochondrial	0.24	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 62
+TRIM21	E3 ubiquitin-protein ligase TRIM21	0.24	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 63
+KIAA0556	Protein KIAA0556	0.21	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 64
+CROCC	Rootletin	0.18	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 65
+LIPE	Hormone-sensitive lipase	0.17	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 66
+TAF3	Transcription initiation factor TFIID subunit 3	0.13	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 67
+FBXW8	F-box/WD repeat-containing protein 8	0.10	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 68
+OR4A15	Olfactory receptor 4A15	0.05	cytoplasm	decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S4	p29 row 69
+GRIN2D	Glutamate receptor ionotropic, NMDA 2D	4.44	mitochondrial membrane	increased and decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S11	p42 row 1
+GRM6	Metabotropic glutamate receptor 6	2.71	mitochondrial membrane	increased and decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S11	p42 row 2
+TOPAZ1	Testis- and ovary-specific PAZ domain-containing protein 1	0.53	mitochondrial membrane	increased and decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S11	p42 row 3
+ACADVL	Very long-chain-specific acyl-CoA dehydrogenase, mitochondrial	0.28	mitochondrial membrane	increased and decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S11	p42 row 4
+PHC3	Polyhomeotic-like protein 3	0.24	mitochondrial membrane	increased and decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S11	p42 row 5
+FAM71E1	Protein FAM71E1	0.21	mitochondrial membrane	increased and decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S11	p42 row 6
+ENO2	Gamma-enolase	0.18	mitochondrial membrane	increased and decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S11	p42 row 7
+STAR	Steroidogenic acute regulatory protein, mitochondrial	0.18	mitochondrial membrane	increased and decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S11	p42 row 8
+CCDC74A	Coiled-coil domain-containing protein 74A	0.14	mitochondrial membrane	increased and decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S11	p42 row 9
+DOCK8	Dedicator of cytokinesis protein 8	0.05	mitochondrial membrane	increased and decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S11	p42 row 10
+SYCP2	Synaptonemal complex protein 2	0.05	mitochondrial membrane	increased and decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S11	p42 row 11
+TIRAP	Toll/interleukin-1 receptor domain-containing adapter protein	0.01	mitochondrial membrane	increased and decreased	00-data-raw/Alhujaily et al. - 2021/Data Sheet 1.pdf	Table S11	p42 row 12
+ACIN1	Apoptotic chromatin condensation inducer 1		not stated (spliceosome, see Table 2)	not stated	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 4	p10 row 1
+DHX15	DEAH-box helicase 15		not stated (spliceosome, see Table 2)	not stated	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 4	p10 row 2
+FUS	RNA-binding protein FUS		not stated (spliceosome, see Table 2)	not stated	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 4	p10 row 3
+HNRNPK	Heterogeneous nuclear ribonucleoprotein K		not stated (spliceosome, see Table 2)	not stated	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 4	p10 row 4
+HNRNPM	Heterogeneous nuclear ribonucleoprotein M		not stated (spliceosome, see Table 2)	not stated	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 4	p10 row 5
+HNRNPU	Heterogeneous nuclear ribonucleoprotein U		not stated (spliceosome, see Table 2)	not stated	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 4	p10 row 6
+HSPA1B	Heat shock protein family A member 1B		not stated (spliceosome, see Table 2)	not stated	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 4	p10 row 7
+HSPA1L	Heat shock protein family A member like		not stated (spliceosome, see Table 2)	not stated	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 4	p10 row 8
+HSPA2	Heat shock protein family A member 2		not stated (spliceosome, see Table 2)	not stated	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 4	p10 row 9
+HSPA8	Heat shock protein family A member 8		not stated (spliceosome, see Table 2)	not stated	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 4	p10 row 10
+RBM22	Heat shock protein family A member 1B		not stated (spliceosome, see Table 2)	not stated	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 4	p10 row 11
+SNRPD2	Small nuclear ribonucleoprotein Sm D2		not stated (spliceosome, see Table 2)	not stated	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 4	p10 row 12
+THOC1	THO complex 1		not stated (spliceosome, see Table 2)	not stated	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 4	p10 row 13
+TMEM231	Transmembrane protein 231		not stated (spliceosome, see Table 2)	not stated	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 4	p10 row 14
+TRA2A	Transformer 2 alpha homolog		not stated (spliceosome, see Table 2)	not stated	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 4	p10 row 15
+U2AF1L5	Splicing factor U2AF 35 kDa subunit-like protein		not stated (spliceosome, see Table 2)	not stated	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 4	p10 row 16
+	Carbohydrate-response element-binding protein (Mondo A)	263	nucleus	increased	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 2 footnote	prose
+	Protachykinin-1	21	nucleus	increased	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 2 footnote	prose
+	Mitochondrial 3-ketoacyl-CoA thiolase	15	nucleus	increased	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 2 footnote	prose
+	Diphthamide biosynthesis protein-1	7	nucleus	increased	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 2 footnote	prose
+	Mitochondrial enoyl-CoA hydratase	2	nucleus	increased	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 2 footnote	prose
+	ABHD14A	0.08	nucleus	decreased	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 2 footnote	prose
+	Scaffold attachment factor	8	mitochondrial matrix and intermembrane space	increased	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 2 footnote	prose
+	Metastasis suppressor protein-1	7	mitochondrial matrix and intermembrane space	increased	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 2 footnote	prose
+	B-cell CLL/lymphoma 9-like protein	0.02	mitochondrial matrix and intermembrane space	decreased	00-full-text/Alhujaily et al. - 2021.pdf	TABLE 2 footnote	prose

@@ -1,0 +1,28 @@
+id: donnellan-2022-caov3
+paper: Donnellan et al. 2022
+doi: 10.3390/ijms23073689
+adducts:
+- MG-H (+54.010565 Da, Arg)
+- carboxyethyl (+72.021129 Da, Arg/Lys)
+adduct_evidence: 'Methods 4.7: both set as dynamic modifications in Sequest HT, 1% FDR at peptide and
+  protein level'
+cell_line: Caov3 (parental)
+system: in-cell
+condition: untreated; basal/endogenous modification
+output: Donnellan et al. 2022 - Caov3.tsv
+expected_rows: 126
+count_evidence: sheet row count; no count stated in the paper
+sources:
+- model: xlsx
+  file: 00-data-raw/Donnellan et al. - 2022/Supplementary S2. Full list of MGO modified proteins.xlsx
+  sheet: Caov3 (Parental)
+  header_marker: Accession
+  table: Caov3 (Parental)
+  emit: passthrough
+checks:
+- type: no_blank
+  columns:
+  - Accession
+- type: any_nonempty_matching
+  column_pattern: MG-H|arboxyethyl
+  note: every listed protein must carry a localized adduct site

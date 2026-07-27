@@ -1,0 +1,4 @@
+interface:
+  display_name: "UniProt Name Match"
+  short_description: "Map long protein names to UniProt"
+  default_prompt: "Use $uniprot-name-match to map protein names to the best UniProt entries and produce a reviewable TSV."

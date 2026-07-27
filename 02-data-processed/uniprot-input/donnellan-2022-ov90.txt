@@ -1,0 +1,119 @@
+Q04917	14-3-3 protein eta
+P31947	14-3-3 protein sigma
+P63104	14-3-3 protein zeta/delta
+A0A087X2I1	26S proteasome regulatory subunit 10B
+P82650	28S ribosomal protein S22, mitochondrial
+P82675	28S ribosomal protein S5, mitochondrial
+P39019	40S ribosomal protein S19
+P62701	40S ribosomal protein S4, X isoform
+Q92688	Acidic leucine-rich nuclear phosphoprotein 32 family member B
+O15144	Actin-related protein 2/3 complex subunit 2
+P00568	Adenylate kinase isoenzyme 1
+Q12802	A-kinase anchor protein 13
+P40222	Alpha-taxilin
+G3V325	ATP5MF-PTCD1 readthrough
+F8WCU9	AT-rich interactive domain-containing protein 2 (Fragment)
+Q9NYF8	Bcl-2-associated transcription factor 1
+Q53HL2	Borealin
+Q6P1N0	Coiled-coil and C2 domain-containing protein 1A
+Q9BUK0	Coiled-coil-helix-coiled-coil-helix domain-containing protein 7
+P78357	Contactin-associated protein 1
+Q13098	COP9 signalosome complex subunit 1
+O43175	D-3-phosphoglycerate dehydrogenase
+B4DM58	Dihydrofolate reductase
+Q5JUW8	Discs, large homolog 3 (Neuroendocrine-dlg, Drosophila), isoform CRA_b
+P33991	DNA replication licensing factor MCM4
+Q7Z6Z7	E3 ubiquitin-protein ligase HUWE1
+Q92791	Endoplasmic reticulum protein SC65
+A0A0C4DGA2	Enoyl-CoA delta isomerase 2, mitochondrial
+O43414	ERI1 exoribonuclease 3
+Q96KP1	Exocyst complex component 2
+O60645	Exocyst complex component 3
+P15311	Ezrin
+Q9BXW9	Fanconi anemia group D2 protein
+P49327	Fatty acid synthase
+Q96NE9	FERM domain-containing protein 6
+Q14315	Filamin-C
+P09972	Fructose-bisphosphate aldolase C
+O00214	Galectin-8
+Q16666	Gamma-interferon-inducible protein 16
+Q6PCE3	Glucose 1,6-bisphosphate synthase
+K7EJ20	Glutathione peroxidase
+P08238	Heat shock protein HSP 90-beta
+P51991	Heterogeneous nuclear ribonucleoprotein A3
+Q1KMD3	Heterogeneous nuclear ribonucleoprotein U-like protein 2
+Q09472	Histone acetyltransferase p300
+Q02539	Histone H1.1
+Q8WY36	HMG box transcription factor BBX
+P06213	Insulin receptor
+O95466	Isoform 2 of Formin-like protein 1
+P51991	Isoform 2 of Heterogeneous nuclear ribonucleoprotein A3
+Q14318	Isoform 2 of Peptidyl-prolyl cis-trans isomerase FKBP8
+P46934	Isoform 4 of E3 ubiquitin-protein ligase NEDD4
+P06753	Isoform 5 of Tropomyosin alpha-3 chain
+Q9C035	Isoform Epsilon of Tripartite motif-containing protein 5
+P35527	Keratin, type I cytoskeletal 9
+P04259	Keratin, type II cytoskeletal 6B
+Q9BZD4	Kinetochore protein Nuf2
+Q9NPJ6	Mediator of RNA polymerase II transcription subunit 4
+Q9BQG0	Myb-binding protein 1A
+Q7Z406	Myosin-14
+O14745	Na(+)/H(+) exchange regulatory cofactor NHE-RF1
+A0A5F9ZHR3	Nesprin-1
+G3V5X4	Nesprin-2
+Q96SB3	Neurabin-2
+Q09666	Neuroblast differentiation-associated protein AHNAK
+Q7Z417	Nuclear fragile X mental retardation-interacting protein 2
+Q92621	Nuclear pore complex protein Nup205
+Q9BZE4	Nucleolar GTP-binding protein 1
+Q9NUG6	p53 and DNA damage-regulated protein 1
+Q13451	Peptidyl-prolyl cis-trans isomerase FKBP5
+Q9NSD9	Phenylalanine--tRNA ligase beta subunit
+P00558	Phosphoglycerate kinase 1
+O15067	Phosphoribosylformylglycinamidine synthase
+Q9HB19	Pleckstrin homology domain-containing family A member 2
+Q86UW9	Probable E3 ubiquitin-protein ligase DTX2
+A0A1W2PNZ9	Probable JmjC domain-containing histone demethylation protein 2C
+C9JIZ6	Prosaposin
+K7ESG5	Proteasome activator complex subunit 3
+J3KN16	Proteasome adapter and scaffold protein ECM29
+A0A0C4DGG1	Protein kinase C and casein kinase substrate in neurons protein 3 (Fragment)
+Q9BRX2	Protein pelota homolog
+Q9P258	Protein RCC2
+Q08AE8	Protein spire homolog 1
+Q58FF8	Putative heat shock protein HSP 90-beta 2
+Q15276	Rab GTPase-binding effector protein 1
+A0A5K1VW74	RAC-gamma serine/threonine-protein kinase
+A0A0A0MSJ9	Ras GTPase-activating protein 2
+E7END7	Ras-related protein Rab-1A
+Q5JT25	Ras-related protein Rab-41
+J3QLU9	Receptor protein-tyrosine kinase
+Q15293	Reticulocalbin-1
+Q9NZN5	Rho guanine nucleotide exchange factor 12
+Q8N0T1	Ribosomal biogenesis factor
+Q9GZR1	Sentrin-specific protease 6
+P34896	Serine hydroxymethyltransferase, cytosolic
+Q5T123	SH3 domain-binding glutamic acid-rich-like protein 3
+Q15393	Splicing factor 3B subunit 3
+Q9H7N4	Splicing factor, arginine/serine-rich 19
+A6NHR9	Structural maintenance of chromosomes flexible hinge domain-containing protein 1
+Q9UBE0	SUMO-activating enzyme subunit 1
+O15056	Synaptojanin-2
+Q9Y490	Talin-1
+O60343	TBC1 domain family member 4
+P63313	Thymosin beta-10
+P29401	Transketolase
+Q9BRR3	Transmembrane protein 246
+P53007	Tricarboxylate transport protein, mitochondrial
+U3KQK2	Tropomyosin beta chain (Fragment)
+Q13885	Tubulin beta-2A chain
+Q9BVA1	Tubulin beta-2B chain
+Q13509	Tubulin beta-3 chain
+P04350	Tubulin beta-4A chain
+P68371	Tubulin beta-4B chain
+Q16222	UDP-N-acetylhexosamine pyrophosphorylase
+Q92614	Unconventional myosin-XVIIIa
+Q13488	V-type proton ATPase 116 kDa subunit a isoform 3
+Q5JSH3	WD repeat-containing protein 44
+Q92558	Wiskott-Aldrich syndrome protein family member 1
+Q9Y2W2	WW domain-binding protein 11

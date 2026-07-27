@@ -1,0 +1,50 @@
+id: ashour-2020-pdlf-incell
+paper: Ashour et al. 2020
+doi: 10.1136/bmjdrc-2020-001458
+cell_line: PDLF (human periodontal ligament fibroblasts, primary)
+system: in-cell
+condition: cultured in low/high glucose; endogenous MG
+adducts:
+  - MG-H1 (+54.01 Da, Arg)
+adduct_evidence: >-
+  Results: "To gain insight into which proteins have endogenous MG modification, we
+  interrogated proteomics data for evidence of proteins with MG-H1 (+54.01 Da mass
+  increment on arginine residues). MG-H1 modification was detected on five proteins".
+output: Ashour et al. 2020 - PDLF in-cell.tsv
+expected_rows: 5
+count_evidence: 'Results: "MG-H1 modification was detected on five proteins"'
+
+# Reported in the main-text Results only; this paper publishes no table for the
+# in-cell result, so the rows are transcribed from prose with their sites.
+sources:
+  - model: literal
+    file: 00-full-text/Ashour et al. - 2020.pdf
+    table: >-
+      Main text Results, 'Cytosolic proteome of human periodontal ligand fibroblasts
+      in high glucose concentration cultures in vitro'
+    row_ref: prose
+    columns: [Protein, Gene, MG modification sites]
+    rows:
+      - ["beta-actin", "ACTB", "R116"]
+      - ["gamma-actin", "ACTG1", "R206"]
+      - ["Filamin-A", "FLNA", "R1959"]
+      - ["Glutamine-rich protein 1", "QRICH1", "R669"]
+      - ["U6 snRNA-associated Sm-like protein LSm3", "LSM3", "R80"]
+    emit:
+      Protein:               {column: Protein}
+      Gene:                  {column: Gene}
+      MG modification sites: {column: MG modification sites}
+
+checks:
+  - type: no_blank
+    columns: [Protein, Gene, MG modification sites]
+
+caveats:
+  - >-
+    gamma-actin R206 also appears in this paper's Table S2 (row 8), i.e. the same
+    site is seen both in cells and in the cell-free experiment. Filamin-A differs:
+    R1959 in cells vs R285/R921/R1312/R1381 in the cell-free table.
+  - >-
+    The UniProt entry name for glutamine-rich protein 1 is QRIC1_HUMAN (Q2TAL8) --
+    entry-name mnemonics are capped at 5 characters, so "QRICH1_HUMAN" is not a
+    valid entry name. The gene symbol QRICH1 given here is correct.

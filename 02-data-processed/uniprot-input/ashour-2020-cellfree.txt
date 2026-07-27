@@ -1,0 +1,172 @@
+VIME_HUMAN	Vimentin
+BIP_HUMAN	Endoplasmic reticulum chaperone BiP
+ENPL_HUMAN	Endoplasmin
+LMNA_HUMAN	Prelamin-A/C
+PLEC_HUMAN	Plectin
+CKAP4_HUMAN	Cytoskeleton-associated protein 4
+GRP75_HUMAN	Stress-70 protein, mitochondrial
+ACTG_HUMAN	Actin, cytoplasmic 2
+ACTN4_HUMAN	Alpha-actinin-4
+AHNK_HUMAN	Neuroblast differentiation- associated protein AHNAK
+PDIA1_HUMAN	Protein disulfide-isomerase
+ANXA6_HUMAN	Annexin A6
+MOES_HUMAN	Moesin
+PDIA4_HUMAN	Protein disulfide-isomerase A4
+FLNA_HUMAN	Filamin-A
+HSP7C_HUMAN	Heat shock cognate 71 kDa protein
+PDIA6_HUMAN	Protein disulfide-isomerase A6
+CH10_HUMAN	10 kDa heat shock protein, mitochondrial
+1433Z_HUMAN	14-3-3 protein zeta/delta
+ANXA1_HUMAN	Annexin A1
+ANXA5_HUMAN	Annexin A5
+CALR_HUMAN	Calreticulin
+CISY_HUMAN	Citrate synthase
+CO1A1_HUMAN	Collagen alpha-1(I) chain
+ALDOA_HUMAN	Fructose-bisphosphate aldolase A
+LEG1_HUMAN	Galectin-1
+GLU2B_HUMAN	Glucosidase 2 subunit beta
+DHE3_HUMAN	Glutamate dehydrogenase 1, mitochondrial
+HNRPQ_HUMAN	Heterogeneous nuclear ribonucleoprotein Q
+ROA1_HUMAN	Isoform 2 of Heterogeneous nuclear ribonucleoprotein A1
+PLIN3_HUMAN	Isoform 4 of Perilipin-3
+PGK1_HUMAN	Phosphoglycerate kinase 1
+PDIA3_HUMAN	Protein disulfide-isomerase A3
+RRBP1_HUMAN	Ribosome-binding protein 1
+TPM4_HUMAN	Tropomyosin alpha-4 chain
+VINC_HUMAN	Vinculin
+VDAC1_HUMAN	Voltage-dependent anion- selective channel protein 1
+6PGD_HUMAN	6-phosphogluconate dehydrogenase, decarboxylating
+CH60_HUMAN	60 kDa heat shock protein, mitochondrial
+ACON_HUMAN	Aconitate hydratase, mitochondrial
+ANXA4_HUMAN	Annexin A4
+CALM3_HUMAN	Calmodulin
+EF2_HUMAN	Elongation factor 2
+ERP44_HUMAN	Endoplasmic reticulum resident protein 44
+G6PI_HUMAN	Glucose-6-phosphate isomerase (Fragment)
+HS90B_HUMAN	Heat shock protein HSP 90- beta
+ROA2_HUMAN	Heterogeneous nuclear ribonucleoproteins A2/B1
+IKIP_HUMAN	Isoform 4 of Inhibitor of nuclear factor kappa-B kinase- interacting protein
+LDHB_HUMAN	L-lactate dehydrogenase B chain
+MDHM_HUMAN	Malate dehydrogenase, mitochondrial
+PGRC2_HUMAN	Membrane-associated progesterone receptor component 2
+MAP1B_HUMAN	Microtubule-associated protein 1B
+NB5R3_HUMAN	NADH-cytochrome b5 reductase 3
+NUCL_HUMAN	Nucleolin
+PPIB_HUMAN	Peptidyl-prolyl cis-trans isomerase B
+P4HA1_HUMAN	Prolyl 4-hydroxylase subunit alpha-1
+S10AB_HUMAN	Protein S100-A11
+S10A6_HUMAN	Protein S100-A6
+RCN1_HUMAN	Reticulocalbin-1
+SH3L3_HUMAN	SH3 domain-binding glutamic acid-rich-like protein 3
+STIP1_HUMAN	Stress-induced-phosphoprotein 1
+TLN1_HUMAN	Talin-1
+TAGL_HUMAN	Transgelin
+TMEDA_HUMAN	Transmembrane emp24 domain-containing protein 10
+1433E_HUMAN	14-3-3 protein epsilon
+PSMD7_HUMAN	26S proteasome non-ATPase regulatory subunit 7
+RS17_HUMAN	40S ribosomal protein S17
+RS28_HUMAN	40S ribosomal protein S28
+RLA2_HUMAN	60S acidic ribosomal protein P2
+ACBP_HUMAN	Acyl-CoA-binding protein
+KAD2_HUMAN	Adenylate kinase 2, mitochondrial
+CAP1_HUMAN	Adenylyl cyclase-associated protein 1
+ACTN1_HUMAN	Alpha-actinin-1
+ENOA_HUMAN	Alpha-enolase
+ANX11_HUMAN	Annexin A11
+ANXA2_HUMAN	Annexin A2
+KI67_HUMAN	Proliferation marker protein Ki- 67
+ACINU_HUMAN	Apoptotic chromatin condensation inducer in the nucleus
+ATPA_HUMAN	ATP synthase subunit alpha, mitochondrial
+ATPB_HUMAN	ATP synthase subunit beta, mitochondrial
+CALD1_HUMAN	Caldesmon (Fragment)
+CNN2_HUMAN	Calponin-2
+CAPZB_HUMAN	Capping protein (Actin filament) muscle Z-line, beta, isoform CRA_a
+CTNA1_HUMAN	Catenin alpha-1
+CAVN1_HUMAN	Polymerase I and transcript release factor
+CD99_HUMAN	CD99 antigen
+CLIC1_HUMAN	Chloride intracellular channel protein 1
+COTL1_HUMAN	Coactosin-like protein
+COF1_HUMAN	Cofilin-1
+CO1A2_HUMAN	Collagen alpha-2(I) chain
+CO6A2_HUMAN	Collagen alpha-2(VI) chain
+CO6A3_HUMAN	Collagen alpha-3(VI) chain
+C1QBP_HUMAN	Complement component 1 Q subcomponent-binding protein, mitochondrial
+DTD1_HUMAN	D-tyrosyl-tRNA(Tyr) deacylase (Fragment)
+ODO2_HUMAN	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate
+DDB1_HUMAN	DNA damage-binding protein 1
+RPN1_HUMAN	Dolichyl- diphosphooligosaccharide-- protein glycosyltransferase
+DCTN2_HUMAN	Dynactin subunit 2
+EF1A1_HUMAN	Elongation factor 1-alpha 1
+ERP29_HUMAN	Endoplasmic reticulum resident protein 29
+ECHM_HUMAN	Enoyl-CoA hydratase, mitochondrial
+HYEP_HUMAN	Epoxide hydrolase 1
+IF4B_HUMAN	Eukaryotic translation initiation factor 4B
+IF5A1_HUMAN	Eukaryotic translation initiation factor 5A-1
+FLNC_HUMAN	Filamin-C
+GSTO1_HUMAN	Glutathione S-transferase omega-1
+G3P_HUMAN	Glyceraldehyde-3-phosphate dehydrogenase
+HSPB1_HUMAN	Heat shock protein beta-1
+HS90A_HUMAN	Heat shock protein HSP 90- alpha
+HNRPF_HUMAN	Heterogeneous nuclear ribonucleoprotein F
+HYOU1_HUMAN	Hypoxia up-regulated protein 1
+ITB1_HUMAN	Integrin beta-1
+ILF2_HUMAN	Interleukin enhancer-binding factor 2
+ILF3_HUMAN	Interleukin enhancer-binding factor 3
+E41L3_HUMAN	Isoform 2 of Band 4.1-like protein 3
+GELS_HUMAN	Isoform 2 of Gelsolin
+TPM3_HUMAN	Isoform 2 of Tropomyosin alpha-3 chain
+VAPA_HUMAN	Isoform 2 of Vesicle- associated membrane protein- associated protein A
+NDKB_HUMAN	Isoform 3 of Nucleoside diphosphate kinase B
+CD44_HUMAN	Isoform 7 of CD44 antigen
+FUMH_HUMAN	Isoform Cytoplasmic of Fumarate hydratase, mitochondrial
+LDHA_HUMAN	L-lactate dehydrogenase A
+LAP2A_HUMAN	Lamina-associated polypeptide 2, isoforms beta/gamma
+LAMC1_HUMAN	Laminin subunit gamma-1
+LPPRC_HUMAN	Leucine-rich PPR motif- containing protein, mitochondrial
+LIMA1_HUMAN	LIM domain and actin-binding protein 1
+LA_HUMAN	Lupus La protein
+MRP_HUMAN	MARCKS-related protein
+PGRC1_HUMAN	Membrane-associated progesterone receptor component 1
+PUR6_HUMAN	Multifunctional protein ADE2 (Fragment)
+MCFD2_HUMAN	Multiple coagulation factor deficiency protein 2
+MARCS_HUMAN	Myristoylated alanine-rich C- kinase substrate
+NRDC_HUMAN	Nardilysin
+NACAM_HUMAN	Nascent polypeptide- associated complex subunit
+NUCB2_HUMAN	Nucleobindin 2, isoform CRA_b
+NPM_HUMAN	Nucleophosmin
+PPIA_HUMAN	Peptidyl-prolyl cis-trans isomerase A
+PRDX6_HUMAN	Peroxiredoxin-6
+PEBP1_HUMAN	Phosphatidylethanolamine- binding protein 1
+PREP_HUMAN	Presequence protease, mitochondrial
+PROF1_HUMAN	Profilin-1
+PHB2_HUMAN	Prohibitin-2
+SAP_HUMAN	Prosaposin
+PARK7_HUMAN	Protein deglycase DJ-1
+DEK_HUMAN	Protein DEK
+LMAN1_HUMAN	Protein ERGIC-53
+LZIC_HUMAN	Protein LZIC
+S10AA_HUMAN	Protein S100-A10
+S10AD_HUMAN	Protein S100-A13
+SC61B_HUMAN	Protein transport protein Sec61 subunit beta
+KPYM_HUMAN	Pyruvate kinase PKM
+GDIB_HUMAN	Rab GDP dissociation inhibitor beta
+RCN3_HUMAN	Reticulocalbin-3
+RTN3_HUMAN	Reticulon-3
+GDIR1_HUMAN	Rho GDP-dissociation inhibitor 1
+SKP1_HUMAN	S-phase kinase-associated protein 1
+SEPT2_HUMAN	Septin-2
+SURF4_HUMAN	Surfeit locus protein 4
+TMF1_HUMAN	TATA element modulatory factor
+TXND5_HUMAN	Thioredoxin domain- containing protein 5
+PRDX3_HUMAN	Thioredoxin-dependent peroxide reductase, mitochondrial
+TALDO_HUMAN	Transaldolase
+TAGL2_HUMAN	Transgelin-2
+TMED9_HUMAN	Transmembrane emp24 domain-containing protein 9
+UCHL1_HUMAN	Ubiquitin carboxyl-terminal hydrolase isozyme L1
+UBE2N_HUMAN	Ubiquitin-conjugating enzyme E2 N
+E9PAM4_HUMAN	Uncharacterized protein
+ACADV_HUMAN	Very long-chain specific acyl- CoA dehydrogenase, mitochondrial
+VAMP3_HUMAN	Vesicle-associated membrane protein 3
+VDAC2_HUMAN	Voltage-dependent anion- selective channel protein 2
+XRCC5_HUMAN	X-ray repair cross- complementing protein 5
+XRCC6_HUMAN	X-ray repair cross- complementing protein 6

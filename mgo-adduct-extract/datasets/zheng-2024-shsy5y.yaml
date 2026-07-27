@@ -1,0 +1,83 @@
+id: zheng-2024-shsy5y
+paper: Zheng et al. 2024
+doi: 10.1016/j.ijbiomac.2024.132859
+cell_line: SH-SY5Y
+system: in-cell
+condition: control (0 uM) plus 500 / 750 / 1000 uM exogenous MGO, 4 replicates each
+adducts:
+  - Arg MG-H (+54.010565 Da)
+  - carboxyethyl / hemiaminal (+72.021129 Da) on Arg, Lys, Cys
+adduct_evidence: >-
+  Methods 2.6 defines these as MaxQuant variable modifications with those exact
+  delta masses, filtered at 1% protein and peptide FDR, score >65, localization
+  probability >=0.5, PEP <=0.01.
+output: Zheng et al. 2024 - SH-SY5Y.tsv
+expected_rows: 77
+count_evidence: >-
+  Results 3.3: "A total of 77 proteins were selected and defined as highly
+  susceptible to MGO modification based on the predefined selection criteria".
+
+# The J statistic and p-value describe the concentration TREND of an
+# already-detected adduct, not whether the adduct exists. Rows with low |J| or
+# p = 1.00 (e.g. row 29, TUBB1) are still adduct-positive and must NOT be filtered.
+sources:
+  - model: pdf_anchor
+    file: 00-data-raw/Zheng et al. - 2024/1-s2.0-S014181302403664X-mm.pdf
+    table: Table S1
+    pages: [1, 2]            # 0-based, inclusive
+    anchor_x: [44, 80]
+    anchor_max: 77
+    anchor_name: 'No.'
+    assign: below
+    y_tol: 14
+    band: 2.0
+    anchor_once_per_table: true
+    columns:
+      - {name: Protein ID,   x: [80, 140]}
+      - {name: Protein name, x: [140, 370]}
+      - {name: Gene name,    x: [370, 440]}
+      - {name: J statistic,  x: [440, 500]}
+      - {name: p-value,      x: [500, 580]}
+    emit:
+      'No.':         {column: 'No.'}
+      Protein ID:    {column: Protein ID}
+      Protein name:  {column: Protein name}
+      Gene name:     {column: Gene name}
+      J statistic:   {column: J statistic}
+      p-value:       {column: p-value}
+
+checks:
+  - type: contiguous_numbering
+
+  - type: regex_column
+    column: Protein ID
+    pattern: '(?:[OPQ][0-9][A-Z0-9]{3}[0-9]|[A-NR-Z][0-9](?:[A-Z][A-Z0-9]{2}[0-9]){1,2})'
+
+  - type: unique_column
+    column: Protein ID
+
+  - type: no_blank
+    columns: [Protein name, Gene name]
+
+  # Bidirectional. Gene symbols can themselves be accession-shaped (H2BC18 parses
+  # as a valid accession), so the Gene name column is an allowed explanation for a
+  # token the check parse sees but the accession column does not contain.
+  - type: cross_method_identifiers
+    column: Protein ID
+    pattern: '(?:[OPQ][0-9][A-Z0-9]{3}[0-9]|[A-NR-Z][0-9](?:[A-Z][A-Z0-9]{2}[0-9]){1,2})'
+    also_accounted_by: [Gene name]
+    source_index: 0
+
+caveats:
+  - >-
+    COVERAGE: Results 3.2 states "A total of 153 proteins were identified as
+    modified by MGO in the control and/or MGO-treated cell samples". Table S1
+    holds only the 77 that also passed a >=3-of-4-replicate frequency filter. The
+    other 76 appear solely as Fig. 4 heatmap row labels -- see
+    zheng-2024-shsy5y-fig4. There is no repository deposit ("Data will be made
+    available on request").
+  - >-
+    Table S1 contains NO cytoplasmic ribosomal proteins. The only
+    translation-machinery entries are EEF1G (row 4) and EEF2 (row 41). A zero
+    overlap with the ribosome from this file is an artifact of the replicate
+    filter, not evidence that ribosomal proteins are unmodified in SH-SY5Y.

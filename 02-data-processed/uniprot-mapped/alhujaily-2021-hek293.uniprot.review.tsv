@@ -1,0 +1,11 @@
+From	Selected Entry	Selected Entry Name	Confidence	Reason	Alternative Entries
+"C19orf68	Uncharacterized protein C19orf68"	Q86XI8	ZSWM9_HUMAN	low	Candidate ranking is ambiguous or only weakly supported.	
+"LOC105372343	Uncharacterized protein"	P0CG20	PRR35_HUMAN	medium	Protein name and the hint 'LOC105372343' point to different entries (selected PRR35_HUMAN, genes PRR35 C16orf11); check the source for a naming error.	Q66K80 (RUAS1_HUMAN), Q6NUJ2 (CK087_HUMAN), Q6P1W5 (CA094_HUMAN)
+"RBM22	Heat shock protein family A member 1B"	P0DMV9	HS71B_HUMAN	medium	Protein name and the hint 'RBM22' point to different entries (selected HS71B_HUMAN, genes HSPA1B HSP72); check the source for a naming error.	Q9NW64 (RBM22_HUMAN), A0ACI8QWU5 (A0ACI8QWU5_HUMAN), A0ACI8QXM6 (A0ACI8QXM6_HUMAN)
+"U2AF1L5	Splicing factor U2AF 35 kDa subunit-like protein"	Q8WU68	U2AF4_HUMAN	medium	Protein name and the hint 'U2AF1L5' point to different entries (selected U2AF4_HUMAN, genes U2AF1L4 U2AF1-RS3 U2AF1L3); check the source for a naming error.	Q15695 (U2AFL_HUMAN), Q15696 (U2AFM_HUMAN), O75533 (SF3B1_HUMAN)
+Carbohydrate-response element-binding protein (Mondo A)			low	No UniProt candidates were retrieved.	
+Mitochondrial 3-ketoacyl-CoA thiolase	P42765	THIM_HUMAN	medium	Best candidate is plausible, but at least one alternative remains credible.	P09110 (THIK_HUMAN), Q9NWU1 (OXSM_HUMAN), P40939 (ECHA_HUMAN)
+Diphthamide biosynthesis protein-1	Q96FX2	DPH3_HUMAN	low	Candidate ranking is ambiguous or only weakly supported.	Q9BTV6 (DPH7_HUMAN), Q9BZG8 (DPH1_HUMAN), Q6P3W2 (DJC24_HUMAN)
+Mitochondrial enoyl-CoA hydratase	P30084	ECHM_HUMAN	low	Candidate ranking is ambiguous or only weakly supported.	Q13825 (AUHM_HUMAN), Q96DC8 (ECHD3_HUMAN), P42126 (ECI1_HUMAN)
+Scaffold attachment factor	Q00839	HNRPU_HUMAN	low	Candidate ranking is ambiguous or only weakly supported.	Q14151 (SAFB2_HUMAN), Q15424 (SAFB1_HUMAN), Q1KMD3 (HNRL2_HUMAN)
+Metastasis suppressor protein-1	O43312	MTSS1_HUMAN	low	Candidate ranking is ambiguous or only weakly supported.	P27701 (CD82_HUMAN), Q5PSV4 (BRM1L_HUMAN), P43146 (DCC_HUMAN)

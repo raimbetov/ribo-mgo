@@ -1,0 +1,126 @@
+O94851	[F-actin]-monooxygenase MICAL2
+A0A2R8Y811	40S ribosomal protein S14 (Fragment)
+P49588	Alanine--tRNA ligase, cytoplasmic
+P40222	Alpha-taxilin
+A6NKB8	Aminopeptidase B
+Q8IWZ3	Ankyrin repeat and KH domain-containing protein 1
+O75179	Ankyrin repeat domain-containing protein 17
+P63010	AP-2 complex subunit beta
+Q8IUR7	Armadillo repeat-containing protein 8
+Q9UBB4	Ataxin-10
+G3V325	ATP5MF-PTCD1 readthrough
+P33897	ATP-binding cassette sub-family D member 1
+Q8NE71	ATP-binding cassette sub-family F member 1
+Q9H2U1	ATP-dependent DNA/RNA helicase DHX36
+F8WCU9	AT-rich interactive domain-containing protein 2 (Fragment)
+Q9NR09	Baculoviral IAP repeat-containing protein 6
+Q9NYF8	Bcl-2-associated transcription factor 1
+P13929	Beta-enolase
+Q53HL2	Borealin
+Q9UHR4	Brain-specific angiogenesis inhibitor 1-associated protein 2-like protein 1
+Q9H6U6	Breast carcinoma-amplified sequence 3
+P16152	Carbonyl reductase [NADPH] 1
+A0A096LP69	CD99 antigen
+Q96SN8	CDK5 regulatory subunit-associated protein 2
+Q99715	Collagen alpha-1(XII) chain
+Q9NZB2	Constitutive coactivator of PPAR-gamma-like protein 1
+Q5T3F8	CSC1-like protein 2
+Q13363	C-terminal-binding protein 1
+Q9NRF8	CTP synthase 2
+Q7L576	Cytoplasmic FMR1-interacting protein 1
+E7EVJ5	Cytoplasmic FMR1-interacting protein
+Q5VZ89	DENN domain-containing protein 4C
+Q9Y315	Deoxyribose-phosphate aldolase
+P15924	Desmoplakin
+A6NML8	Diaphanous homolog 2 (Drosophila), isoform CRA_c
+Q99615	DnaJ homolog subfamily C member 7
+Q96M86	Dynein heavy chain domain-containing protein 1
+Q7Z6Z7	E3 ubiquitin-protein ligase HUWE1
+O94822	E3 ubiquitin-protein ligase listerin
+A0A590UJW8	E3 ubiquitin-protein ligase
+A0A0A0MTR7	E3 ubiquitin-protein ligase RNF213
+P68104	Elongation factor 1-alpha 1
+Q05639	Elongation factor 1-alpha 2
+P26641	Elongation factor 1-gamma
+O94919	Endonuclease domain-containing 1 protein
+Q9UPY3	Endoribonuclease Dicer
+H0Y498	ER degradation-enhancing alpha-mannosidase-like protein 3 (Fragment)
+P15311	Ezrin
+Q9BXW9	Fanconi anemia group D2 protein
+P22830	Ferrochelatase, mitochondrial
+Q14315	Filamin-C
+P04075	Fructose-bisphosphate aldolase A
+A0A087WUQ6	Glutathione peroxidase
+P09211	Glutathione S-transferase P
+P04406	Glyceraldehyde-3-phosphate dehydrogenase
+F8WAN9	GMP reductase
+P07900	Heat shock protein HSP 90-alpha
+P08238	Heat shock protein HSP 90-beta
+Q02539	Histone H1.1
+P62805	Histone H4
+Q9H792	Inactive tyrosine-protein kinase PEAK1
+A0A3F2YNW8	Inositol 1,4,5-trisphosphate receptor type 1
+Q14573	Inositol 1,4,5-trisphosphate receptor type 3
+Q9UJF2	Isoform 2 of Ras GTPase-activating protein nGAP
+Q01082	Isoform 2 of Spectrin beta chain, non-erythrocytic 1
+P67936	Isoform 2 of Tropomyosin alpha-4 chain
+Q13310	Isoform 3 of Polyadenylate-binding protein 4
+P06753	Isoform 4 of Tropomyosin alpha-3 chain
+Q8WXA3	Isoform 5 of RUN and FYVE domain-containing protein 2
+Q7Z406	Isoform 6 of Myosin-14
+Q15149	Isoform 8 of Plectin
+P05783	Keratin, type I cytoskeletal 18
+P02538	Keratin, type II cytoskeletal 6A
+Q03252	Lamin-B2
+G3V5T0	Maleylacetoacetate isomerase
+Q5JXX2	Mortality factor 4-like protein 2 (Fragment)
+Q6DN12	Multiple C2 and transmembrane domain-containing protein 2
+Q9BQG0	Myb-binding protein 1A
+Q15746	Myosin light chain kinase, smooth muscle
+P35579	Myosin-9
+Q9Y2A7	Nck-associated protein 1
+A0A5H1ZRP4	Negative elongation factor B
+Q8NF91	Nesprin-1
+Q09666	Neuroblast differentiation-associated protein AHNAK
+Q8N5F7	NF-kappa-B-activating protein
+O75376	Nuclear receptor corepressor 1
+Q7Z3B4	Nucleoporin p54
+Q06710	Paired box protein Pax-8
+Q5JVF3	PCI domain-containing protein 2
+O15067	Phosphoribosylformylglycinamidine synthase
+Q10471	Polypeptide N-acetylgalactosaminyltransferase 2
+Q8IY21	Probable ATP-dependent RNA helicase DDX60
+Q9Y3A2	Probable U3 small nucleolar RNA-associated protein 11
+Q92733	Proline-rich protein PRCC
+J3KN16	Proteasome adapter and scaffold protein ECM29
+P28062	Proteasome subunit beta type-8
+Q86UE4	Protein LYRIC
+P48634	Protein PRRC2A
+Q9P258	Protein RCC2
+P21980	Protein-glutamine gamma-glutamyltransferase 2
+Q58FF8	Putative heat shock protein HSP 90-beta 2
+P50395	Rab GDP dissociation inhibitor beta
+A0A2R8Y5S7	Radixin
+P51149	Ras-related protein Rab-7a
+E7EVL6	Replication initiator 1 (Fragment)
+A0A087WWE7	Ribosomal biogenesis factor
+O43295	SLIT-ROBO Rho GTPase-activating protein 3
+Q3KQZ1	Solute carrier family 25 member 35
+Q01082	Spectrin beta chain, non-erythrocytic 1
+O15020	Spectrin beta chain, non-erythrocytic 2
+O95347	Structural maintenance of chromosomes protein 2
+Q9Y490	Talin-1
+Q9BYX2	TBC1 domain family member 2A
+P63313	Thymosin beta-10
+Q8WZ42	Titin
+Q6IPX3	Transcription elongation factor A protein-like 6
+Q7KZ85	Transcription elongation factor SPT6
+F2Z2U4	Transformation/transcription domain-associated protein
+Q9H061	Transmembrane protein 126A
+U3KQK2	Tropomyosin beta chain (Fragment)
+Q9BQE3	Tubulin alpha-1C chain
+Q9NZ09	Ubiquitin-associated protein 1
+Q16222	UDP-N-acetylhexosamine pyrophosphorylase
+P06132	Uroporphyrinogen decarboxylase
+Q9P0L0	Vesicle-associated membrane protein-associated protein A
+Q8WU90	Zinc finger CCCH domain-containing protein 15

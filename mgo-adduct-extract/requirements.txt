@@ -1,0 +1,14 @@
+# Dependencies for the mgo-adduct-extract skill.
+#
+# Scoped to this skill deliberately: the repository root has no package manifest
+# (see CLAUDE.md), and this file is not intended to change that convention.
+#
+# Also required, but not installable from PyPI:
+#   pdftotext  (poppler-utils) -- provides the independent second parse that
+#              cross-checks every PDF table. `apt install poppler-utils`
+#
+# Versions are the ones the current 01-data-extracted/ output was produced with.
+
+pdfplumber==0.11.10
+openpyxl==3.1.5
+PyYAML==6.0.3

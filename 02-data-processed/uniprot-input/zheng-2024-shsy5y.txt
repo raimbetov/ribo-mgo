@@ -1,0 +1,77 @@
+P08670	Vimentin
+P68371	Tubulin beta-4B chain
+Q5QNW6	Histone H2B type 2-F
+P26641	Elongation factor 1-gamma
+P60660	Myosin light polypeptide 6
+P63261	Actin, cytoplasmic 2, N-terminally processed
+P22732	Solute carrier family 2, facilitated glucose transporter member 5
+Q9Y2V2	Calcium-regulated heat-stable protein 1
+Q08378	Golgin subfamily A member 3
+Q6NSI1	Putative ankyrin repeat domain-containing protein 26-like protein
+Q9Y2F9	BTB/POZ domain-containing protein 3
+Q9NXL9	DNA helicase MCM9
+Q8IVE3	Pleckstrin homology domain-containing family H member 2
+Q8NCL9	Protein APCDD1-like
+Q86Y07	Serine/threonine-protein kinase VRK2
+P52298	Nuclear cap-binding protein subunit 2
+Q9BXF9	Tektin-3
+P60709	Actin, cytoplasmic 1, N-terminally processed
+A5A3E0	POTE ankyrin domain family member F
+P48643	T-complex protein 1 subunit epsilon
+P61550	Endogenous retrovirus group S71 member 1 Env polyprotein
+P52790	Hexokinase-3
+P61160	Actin-related protein 2
+P52179	Myomesin-1
+P09874	Poly [ADP-ribose] polymerase 1
+O75182	Paired amphipathic helix protein Sin3b
+P43354	Nuclear receptor subfamily 4 group A member 2
+Q9UJW0	Dynactin subunit 4
+Q9H4B7	Tubulin beta-1 chain
+Q9H3R1	Bifunctional heparan sulfate N-deacetylase/N- sulfotransferase 4
+Q2VY69	Zinc finger protein 284
+O75541	Zinc finger protein 821
+Q96QB1	Rho GTPase-activating protein 7
+Q9NWS8	Required for meiotic nuclear division protein 1 homolog
+Q8N8I0	Sterile alpha motif domain containing 12.
+P51553	Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial
+P52789	Hexokinase-2
+Q9H069	Dynein regulatory complex subunit 3
+P56524	Histone deacetylase 4
+Q96AA8	Janus kinase and microtubule interacting protein 2
+P13639	Elongation factor 2
+P60510	Serine/threonine-protein phosphatase 4 catalytic subunit
+Q9NWB1	RNA binding protein fox-1 homolog 1
+P17038	Zinc finger protein 43
+Q5T7B8	Kinesin-like protein KIF24
+A5PLL1	Ankyrin repeat domain 34B
+Q9H0K1	Serine/threonine-protein kinase SIK2
+Q8IZH2	5'-3' exoribonuclease 1
+Q14683	Structural maintenance of chromosomes protein 1A
+Q92576	PHD finger protein 3.
+Q4J6C6	Prolyl endopeptidase-like
+P16152	Carbonyl reductase [NADPH] 1
+Q00872	Myosin-binding protein C, slow-type
+Q86VV8	Rotatin
+P52566	Rho GDP-dissociation inhibitor 2
+Q9HCD5	Nuclear receptor coactivator 5
+Q13751	Laminin subunit beta-3
+O94906	Pre-mRNA-processing factor 6
+P10827	Thyroid hormone receptor alpha
+Q70UQ0	IKBKB interacting protein.
+Q8IXZ2	Zinc finger CCCH domain-containing protein 3
+Q9UGP8	Translocation protein SEC63 homolog
+P35557	Hexokinase-4
+A8MPP1	Putative ATP-dependent RNA helicase DDX11-like protein 8
+Q9Y4X0	AMMECR nuclear protein 1.
+P25874	Mitochondrial brown fat uncoupling protein 1
+P07355	AMMECR nuclear protein 1.
+A6NLP5	Tetratricopeptide repeat domain 36.
+O14827	Ras-specific guanine nucleotide-releasing factor 2
+Q8TED4	Glucose-6-phosphate exchanger SLC37A2
+O15397	Importin-8
+Q9H3R0	Lysine-specific demethylase 4C
+Q8TB72	Pumilio homolog 2
+Q8N3X1	Formin binding protein 4.
+Q8N8K9	Uncharacterized protein KIAA1958
+Q13938	Calcyphosin
+O60304	Zinc finger protein 500

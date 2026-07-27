@@ -1,0 +1,4 @@
+From	Selected Entry	Selected Entry Name	Confidence	Reason	Alternative Entries
+"A6NML8	Diaphanous homolog 2 (Drosophila), isoform CRA_c"			low	No UniProt candidates were retrieved.	
+"A0A087WUQ6	Glutathione peroxidase"	O14684	PTGES_HUMAN	low	Candidate ranking is ambiguous or only weakly supported.	O14880 (MGST3_HUMAN), O75715 (GPX5_HUMAN), P00450 (CERU_HUMAN)
+"F8WAN9	GMP reductase"	P36959	GMPR1_HUMAN	low	Candidate ranking is ambiguous or only weakly supported.	Q9P2T1 (GMPR2_HUMAN), A0A0B4J281 (A0A0B4J281_HUMAN), A0AAG2THM2 (A0AAG2THM2_HUMAN)

@@ -1,0 +1,153 @@
+Gene name	Protein ID	modification_types	in_Table_S1	source_file	source_table	source_row
+ACTB	P60709	Arg MG-H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels A)	read visually from figure -- see script docstring
+ACTC1		Arg MG-H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels A)	read visually from figure -- see script docstring
+ACTG1	P63261	Arg MG-H; Lys C-E/H; Cys C-E	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels ACD)	read visually from figure -- see script docstring
+ACTR2	P61160	Cys C-E	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+ALMS1		Arg C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+AMMECR1	Q9Y4X0	Lys C-E/H; Cys C-E	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels CD)	read visually from figure -- see script docstring
+ANKRD26P1	Q6NSI1	Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+ANKRD34B	A5PLL1	Arg MG-H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels A)	read visually from figure -- see script docstring
+ANXA2	P07355	Lys C-E/H; Cys C-E	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels CD)	read visually from figure -- see script docstring
+AP3D1		Arg C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+APCDD1L	Q8NCL9	Arg MG-H; Cys C-E	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels AD)	read visually from figure -- see script docstring
+APEX1		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+ARHGDIB	P52566	Cys C-E	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+ASH1L		Arg MG-H; Arg C-E/H; Lys C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels ABC)	read visually from figure -- see script docstring
+ASIC4		Arg C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+ASS1		Arg MG-H; Lys C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels AC)	read visually from figure -- see script docstring
+ATIC		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+ATP4A		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+BARHL2		Lys C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+BTBD3	Q9Y2F9	Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+CAPS	Q13938	Arg C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+CARD10		Arg C-E/H; Lys C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels BC)	read visually from figure -- see script docstring
+CARHSP1	Q9Y2V2	Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+CBR1	P16152	Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+CCT5	P48643	Cys C-E	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+CCT7		Arg C-E/H; Lys C-E/H; Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels BCD)	read visually from figure -- see script docstring
+CCT8		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+CDH23		Arg C-E/H; Lys C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels BC)	read visually from figure -- see script docstring
+CEP162		Arg C-E/H; Lys C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels BC)	read visually from figure -- see script docstring
+CTPS1		Arg MG-H; Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels AD)	read visually from figure -- see script docstring
+DCTN4	Q9UJW0	Arg C-E/H; Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels BC)	read visually from figure -- see script docstring
+DDX11L8	A8MPP1	Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+DIAPH2		Lys C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+DLAT		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+DLC1	Q96QB1	Arg C-E/H; Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels BC)	read visually from figure -- see script docstring
+DNMBP		Arg MG-H; Lys C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels AC)	read visually from figure -- see script docstring
+DRC3	Q9H069	Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+DSN1		Arg C-E/H; Lys C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels BC)	read visually from figure -- see script docstring
+EEF1A1		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+EEF1G	P26641	Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+EEF2	P13639	Arg C-E/H; Lys C-E/H; Cys C-E	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels BCD)	read visually from figure -- see script docstring
+EIF5A		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+EIF6		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+ENAH		Arg C-E/H; Lys C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels BC)	read visually from figure -- see script docstring
+ERVS71-1	P61550	Cys C-E	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+FLOT1		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+FNBP4	Q8N3X1	Arg C-E/H; Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels BC)	read visually from figure -- see script docstring
+GAPDH		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+GCK	P35557	Arg MG-H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels A)	read visually from figure -- see script docstring
+GKN2		Arg MG-H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels A)	read visually from figure -- see script docstring
+GNB2		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+GOLGA3	Q08378	Arg MG-H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels A)	read visually from figure -- see script docstring
+GREB1L		Arg MG-H; Lys C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels AC)	read visually from figure -- see script docstring
+GRHPR		Arg C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+GSTP1		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+H2AC18		Arg MG-H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels A)	read visually from figure -- see script docstring
+H2BC18	Q5QNW6	Arg MG-H; Arg C-E/H; Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels ABC)	read visually from figure -- see script docstring
+H3C15		Arg MG-H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels A)	read visually from figure -- see script docstring
+HARS1		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+HDAC4	P56524	Arg C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+HK2	P52789	Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+HK3	P52790	Arg MG-H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels A)	read visually from figure -- see script docstring
+HNRNPA1		Arg C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+HSPA8		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+IDH2		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+IDH3G	P51553	Cys C-E	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+IKBIP	Q70UQ0	Arg MG-H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels A)	read visually from figure -- see script docstring
+ILF3		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+IMPDH2		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+IPO8	O15397	Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+JAKMIP2	Q96AA8	Arg MG-H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels A)	read visually from figure -- see script docstring
+KARS1		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+KDM4C	Q9H3R0	Arg C-E/H; Lys C-E/H; Cys C-E	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels BCD)	read visually from figure -- see script docstring
+KIAA1958	Q8N8K9	Arg MG-H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels A)	read visually from figure -- see script docstring
+KIF22		Lys C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+KIF24	Q5T7B8	Arg C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+KPNB1		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+LAMB3	Q13751	Arg C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+LAMTOR5		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+LDHA		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+LGALS1		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+LTBP3		Arg C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+MCM9	Q9NXL9	Arg MG-H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels A)	read visually from figure -- see script docstring
+MMP27		Arg MG-H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels A)	read visually from figure -- see script docstring
+MSANTD2		Arg C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+MSN		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+MYBPC1	Q00872	Arg C-E/H; Lys C-E/H; Cys C-E	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels BCD)	read visually from figure -- see script docstring
+MYL6	P60660	Lys C-E/H; Cys C-E	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels CD)	read visually from figure -- see script docstring
+MYO7A		Lys C-E/H; Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels CD)	read visually from figure -- see script docstring
+MYOM1	P52179	Arg C-E/H; Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels BC)	read visually from figure -- see script docstring
+NBPF19		Arg MG-H; Lys C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels AC)	read visually from figure -- see script docstring
+NBPF9		Arg MG-H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels A)	read visually from figure -- see script docstring
+NCBP2	P52298	Arg MG-H; Arg C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels AB)	read visually from figure -- see script docstring
+NCOA5	Q9HCD5	Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+NDST4	Q9H3R1	Arg C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+NONO		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+NR4A2	P43354	Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+NUP205		Arg C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+PAICS		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+PARP1	P09874	Cys C-E	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+PELI1		Arg C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+PGM3		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+PHF3	Q92576	Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+PKM		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+PLEC		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+PLEKHH2	Q8IVE3	Arg MG-H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels A)	read visually from figure -- see script docstring
+POTEF	A5A3E0	Arg MG-H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels A)	read visually from figure -- see script docstring
+PPP2CA		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+PPP4C	P60510	Arg C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+PREPL	Q4J6C6	Lys C-E/H; Cys C-E	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels CD)	read visually from figure -- see script docstring
+PRPF6	O94906	Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+PSMB7		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+PUM2	Q8TB72	Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+RAI14		Lys C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+RASGRF2	O14827	Arg C-E/H; Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels BC)	read visually from figure -- see script docstring
+RBFOX1	Q9NWB1	Arg C-E/H; Cys C-E	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels BD)	read visually from figure -- see script docstring
+RMND1	Q9NWS8	Arg C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+RNH1		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+RPL8		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+RTTN	Q86VV8	Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+SAMD12	Q8N8I0	Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+SBF2		Arg MG-H; Lys C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels AC)	read visually from figure -- see script docstring
+SEC63	Q9UGP8	Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+SERBP1		Arg C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+SIK2	Q9H0K1	Arg C-E/H; Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels BC)	read visually from figure -- see script docstring
+SIN3B	O75182	Arg C-E/H; Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels BC)	read visually from figure -- see script docstring
+SLC25A29		Arg C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+SLC2A5	P22732	Arg C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+SLC37A2	Q8TED4	Arg C-E/H; Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels BC)	read visually from figure -- see script docstring
+SMC1A	Q14683	Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+SRRT		Lys C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+STAB2		Lys C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+TEKT3	Q9BXF9	Arg C-E/H; Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels BC)	read visually from figure -- see script docstring
+THRA	P10827	Arg C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+TLN1		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+TOMM70		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+TTC36	A6NLP5	Arg C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+TUBA1B		Arg MG-H; Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels AD)	read visually from figure -- see script docstring
+TUBB1	Q9H4B7	Arg C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+TUBB4B	P68371	Arg MG-H; Arg C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels AB)	read visually from figure -- see script docstring
+TUBB6		Arg C-E/H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+UCP1	P25874	Arg MG-H; Cys C-E	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels AD)	read visually from figure -- see script docstring
+UPP1		Arg MG-H	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels A)	read visually from figure -- see script docstring
+VARS1		Cys C-E	no	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels D)	read visually from figure -- see script docstring
+VIM	P08670	Arg MG-H; Arg C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels AB)	read visually from figure -- see script docstring
+VRK2	Q86Y07	Lys C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels C)	read visually from figure -- see script docstring
+XRN1	Q8IZH2	Arg C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+ZC3H3	Q8IXZ2	Arg C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+ZNF284	Q2VY69	Arg C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+ZNF43	P17038	Lys C-E/H; Cys C-E	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels CD)	read visually from figure -- see script docstring
+ZNF500	O60304	Arg C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
+ZNF821	O75541	Arg C-E/H	yes	00-full-text/Zheng et al. - 2024.pdf	Fig. 4 heatmap row labels (panels B)	read visually from figure -- see script docstring
