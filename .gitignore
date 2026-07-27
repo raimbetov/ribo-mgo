@@ -59,6 +59,3 @@ extract-scripts/
 05-analysis-upset/
 06-analysis-go/
 07-analysis-string/
-
-# Deprecated; kept locally for reference.
-DualGlo_exp1_recalc.ipynb
